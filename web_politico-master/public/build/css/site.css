@@ -1,0 +1,110 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+body{
+  background-color: #2957A4;
+}
+
+.bg-body{
+  background-color: #2957A4;
+}
+
+ @media (max-width: 991.98px) { 
+    h5{
+      font-size: 0.7rem;
+    }
+
+    .icos{
+      display: none;
+    }
+  } 
+
+section {
+  margin: 5px 0;
+}
+
+#about{
+  margin-top: 59px;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+
+.bg-back-div {
+  background-color: #0267B1!important;
+  /* -webkit-box-shadow: 9px 3px 32px 0px rgba(28,109,230,0.91);
+  -moz-box-shadow: 9px 3px 32px 0px rgba(28,109,230,0.91);
+  box-shadow: 9px 3px 32px 0px rgba(28,109,230,0.91); */
+}
+
+
+
+.bg-light {
+  background-color: #f8f9fa!important;
+}
+
+.bg-warning {
+  background-color: #F58634!important;
+}
+
+.rows-section{
+  margin-top:5px;
+}
+
+.line{
+    height: 60px;
+    padding-top: 6px;
+}
+
+.text-p{
+  margin-bottom: 1px;
+  padding-left: 34px;
+  padding-right: 26px;
+}   
+
+.icon-person{
+  margin-left: 27px;
+  display: block;
+  text-indent: -9999px;
+  width: 100px;
+  height: 82px;
+  background-size: 100px 82px;
+}
+
+.icon-emprego{
+  background: url('../../fontawesome-free-5.0.13/fontawesome-free-5.0.13/Icones_Campanha_2018_RC/icone_01_BRANCO.svg');
+  background-size: 100px 82px;
+}
+
+.icon-regularizacao {
+  background: url('../../fontawesome-free-5.0.13/fontawesome-free-5.0.13/Icones_Campanha_2018_RC/icone_02_BRANCO.svg');
+  background-size: 100px 82px;
+}
+
+.icon-agronecio {
+  background: url('../../fontawesome-free-5.0.13/fontawesome-free-5.0.13/Icones_Campanha_2018_RC/icone_03_BRANCO.svg');
+  background-size: 100px 82px;
+}
+
+.icon-capacitacao {
+  background: url('../../fontawesome-free-5.0.13/fontawesome-free-5.0.13/Icones_Campanha_2018_RC/icone_04_BRANCO.svg');
+  background-size: 100px 82px;
+}
+
+.icon-esporte {
+  background: url('../../fontawesome-free-5.0.13/fontawesome-free-5.0.13/Icones_Campanha_2018_RC/icone_05_BRANCO.svg');
+  background-size: 100px 82px;
+}
+
+.icon-ongs {
+  background: url('../../fontawesome-free-5.0.13/fontawesome-free-5.0.13/Icones_Campanha_2018_RC/icone_06_BRANCO.svg');
+  background-size: 100px 82px;
+}
+a:link 
+{ 
+text-decoration:none; 
+} 
+

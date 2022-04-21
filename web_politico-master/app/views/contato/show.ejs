@@ -1,0 +1,50 @@
+<% include ../relatorio/header %>
+
+<div class="container body"> 
+<div>
+    <a href="/contatos">Voltar</a>
+       <h1>Mostrar contato</h1>
+        <table id="datatable" class="table table-striped table-bordered">
+         
+            <tr>
+              <td><label>  Nome: </label>  <%= contato.nome %></td>
+              <td colspan="2" > <label>  Data Nascimento: </label>  <%=  moment(contato.data_nascimento, 'DD/MM/YYYY HH:mm:ss').format('DD/MM/YYYY') %></td>
+             
+            </tr>
+
+            <tr>
+              <td><label>  CPF: </label> <%= contato.cpf %></td>
+              <td><label>  CNPJ: </label> <%= contato.cnpj %></td>
+            </tr>
+
+           <tr>
+                <td colspan="2"><label>  Local de Votação: </label> <%= contato.local_de_votacao %></td>
+           </tr>
+
+            <tr>
+               <td colspan="2"><label>  Endereço: </label> <%= contato.rua %> n° <%= contato.numero %>, cep: <%= contato.cep %>, Cidade: <%= contato.cidade %> </td> 
+            </tr>
+            
+            <tr>
+               <td><label>  Indicado Por: </label> <%=  contato.quem_indicou != undefined ? contato.quem_indicou.nome : '' %></td>
+               <td><label>  Celular: </label> <%= contato.celular1 %></td>
+           </tr>
+           
+            <tr>
+                <td><label> Cidade: </label> <%= contato.cidade %> </td>
+                <td><label> CEP: </label> <%= contato.cep %> </td>
+            </tr>
+
+            <tr>
+                 <td><label> Instagram: </label> <%= contato.instagram %> </td>
+                <td><label> Facebook: </label> <%= contato.facebook %></td>
+            </tr>
+            
+            <tr>
+               <td colspan="2"><label> E-Email: </label> <%= contato.email1 %></td>  
+            </tr>   
+        </table> 
+</div>
+</div>
+
+<% include ../relatorio/footer %>

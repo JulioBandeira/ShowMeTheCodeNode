@@ -1,0 +1,25 @@
+<% include ./header %>
+
+<div class="container body"> 
+<div>
+   
+       <h1>Seções</h1>
+        <table id="datatable" class="table table-striped table-bordered">
+          <thead>
+            <tr>
+              <th>Endereço</th>
+            </tr>
+          </thead>
+
+          <tbody>
+              <% list.forEach(function(item) { %>
+                <tr>
+                  <td><%= item.content %></td>
+                </tr>
+              <% }); %>
+                
+          </tbody>
+        </table> 
+</div>
+</div>
+<% include ./header %>

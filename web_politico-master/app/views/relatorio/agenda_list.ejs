@@ -1,0 +1,35 @@
+
+<% include ./header %>
+
+<div class="container body"> 
+<div>
+    <a href="/relatorio/agenda">Voltar</a>
+       <h1>Agenda</h1>
+        <table id="datatable" class="table table-striped table-bordered">
+          <thead>
+            <tr>
+              <th>Descrição</th>
+              <th>Responsável (Local da Reunião)</th>
+              <th>Codigo Qr</th>
+              <th>Período</th>
+            </tr>
+          </thead>
+
+          <tbody>
+              <% list.forEach(function(item) { %>
+                <tr>  
+                  <td><%= item.title %></td>
+                  <td><%= item.responsavel != undefined ? item.responsavel.nome : ''  %></td>
+                  <td>
+                      <%-  item.codigo_qr %>
+                     
+                  <td><%=  moment(item.start,  "DD/MM/YYYY HH:mm:ss").add(+4, 'hours').format('DD/MM/YYYY HH:mm:ss') %> - <%= moment(item.end,  "DD/MM/YYYY HH:mm").add(+4, 'hours').format('DD/MM/YYYY HH:mm') %> %></td>
+                </tr>
+              <% }); %>
+                
+          </tbody>
+
+        </table> 
+</div>
+</div>
+<% include ./header %>

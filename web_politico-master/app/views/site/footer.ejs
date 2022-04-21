@@ -1,0 +1,104 @@
+<!-- Footer -->
+<footer class="py-5 bg-back-div">
+    <div class="container">
+      <p class="m-0 text-center text-white">"É CLAROS QUE PODEMOS MUDAR RONDÔNIA"</p>
+      <p class="m-0 text-center text-warning"><span> <i class="fab fa-whatsapp"></i>
+      </span> (69)99320-9684  <span> <i class="fab fa-facebook-square"></i> </span>  
+      <span> <i class="fab fa-youtube"></i> </span>   <span>  <i class="fab fa-instagram"></i> </span>/rafaelclaros.ro</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="/jquery/dist/jquery.min.js"></script>
+  <script src="/bootstrap4/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+ 
+  
+  <script src="/build/js/jquery.easing.js"></script>
+
+  <!-- Custom JavaScript for this theme -->
+  <script src="/build/js/scrolling-nav.js"></script>
+
+  <script>
+  
+$('.show-sub-item').on('click', function(){
+ 
+  $('#celular').mask('(00) 00000-0000');
+  $('#telefone').mask('(00) 0000-0000');
+
+    $.get('/conteudo/json_show', {id : $(this).attr('href')}, function(data){
+        
+         $('.text-p').html(data.conteudo)
+    })
+    return false;
+});
+
+$('form').on('submit', function(){
+
+$('.btn-light').prop('disabled', true)
+
+$.post("/contato/new", $('form').serialize(), function() {
+  
+})
+  .done(function() {
+    alert("Mensagem Enviada com Sucesso!!!");
+    $('form').find("input[type=text], input[type=email], textarea").val("");
+    $('.btn-light').prop('disabled', false)
+  })
+  .fail(function() {
+    alert( "Erro no Servidor" );
+  })
+  return false;
+})
+
+$(document).ready(function(){
+
+//  $('.color1').css("background-color", "#fd6b00");
+
+  $.get('/conteudo/json_show', {id : 3}, function(data){
+        $('.text-p').html(data.conteudo)
+   })
+
+$(".color1").hover(function(){
+  $('.color1').css("background-color", "#fd6b00");
+  }, function(){
+  $('.color1').css("background-color", "");
+});
+
+$(".color2").hover(function(){
+  $('.color2').css("background-color", "#fd6b00");
+  }, function(){
+  $('.color2').css("background-color", "");
+
+});
+   
+$(".color3").hover(function(){
+  $('.color3').css("background-color", "#fd6b00");
+  }, function(){
+  $('.color3').css("background-color", "");
+});
+
+$(".color4").hover(function(){
+  $('.color4').css("background-color", "#fd6b00");
+  }, function(){
+  $('.color4').css("background-color", "");
+});
+
+$(".color5").hover(function(){
+  $('.color5').css("background-color", "#fd6b00");
+  }, function(){
+  $('.color5').css("background-color", "");
+});
+
+$(".color6").hover(function(){
+  $('.color6').css("background-color", "#fd6b00");
+  }, function(){
+  $('.color6').css("background-color", "");
+});
+})
+  
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+    "development": {
+        
+        "username": "sa_rafa",
+ 
+        "password": "phjt38s111",
+ 
+        "database": "bd_rafael",
+ 
+        "host": "mysql556.umbler.com",
+ 
+        "dialect": "mysql",
+
+        "port" : "41890"
+    },
+ 
+"test": {
+
+        "username": "julio",
+
+        "password": null,
+        
+        "database": "app_politico",
+
+        "host": "localhost",
+        
+        "dialect": "mysql"
+       
+    },
+ 
+    "production": {
+
+         "username": "sa_rafa",
+ 
+        "password": "phjt38s111",
+ 
+        "database": "bd_rafael",
+ 
+        "host": "mysql556.umbler.com",
+ 
+        "dialect": "mysql",
+
+        "port" : "41890"
+    }
+} 

@@ -1,0 +1,54 @@
+<% include ../template/header %>
+
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2> Nova Notícia</small></h2>
+        <ul class="nav navbar-right panel_toolbox">
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+        <br>
+        
+           <% if(messages.erro)
+             {messages.erro.forEach(function(error){%>
+                <div class="alert alert-danger"><%= error %></div>
+          <% })} %>
+      
+          <form action="/noticia/create" enctype="multipart/form-data" method="POST">
+
+            <!-- <div class="section">Note: Only image files are allowed.</div>
+            <div class="inner-wrap">
+              <label><input type="file" id="photo" name="photo" /></label>
+            </div> -->
+
+            <% include ./form %>
+            
+            <div class="row"> 
+              <div class="col-md-12"> 
+                <button type="submit" class="btn btn-success">Salvar</button>
+              </div>
+            </div>
+      </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<% include ../template/footer %>
+<script src="https://cdn.ckeditor.com/4.10.0/full/ckeditor.js"></script>
+
+<script>
+  
+CKEDITOR.replace( 'edit');
+
+$('#tipo_noticia_img').on('click', function(){
+  if($(this).val() == 'destaque' || $(this).val() == 'comum')  $('.up-img').show();
+  else $('.up-img').hide();
+});
+
+</script>

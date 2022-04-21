@@ -1,0 +1,78 @@
+<style>
+
+        .clear { clear: both }
+        
+        #script-warning, #loading { display: none }
+        #script-warning { font-weight: bold; color: red }
+        
+        </style>
+        
+        <div class='right'>
+            <span id='loading'>loading...</span>
+            <span id='script-warning'><code></code> must be running.</span>
+          </div>
+        
+           <div class="page-title">
+            
+              
+            </div>
+        
+            <div class="clearfix"></div>
+        
+            <div class="row">
+              <div class="col-md-12">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>Calendário de Eventos</h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                      
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+        
+                    <div id='calendar'></div>
+        
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+           <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+              <div class="modal-dialog" role="document" style="width: 800px;">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="gridSystemModalLabel">Evento</h4>
+                  </div>
+                  <div class="modal-body">
+                 
+                      <ul class="nav nav-tabs">
+                          <li class="active"><a data-toggle="tab" href="#home">Agenda</a></li>
+                          <li><a data-toggle="tab" href="#menu1">Contato/Reunião</a></li>
+                          <li><a data-toggle="tab" href="#menu2">Geo-Rerência Avançada</a></li>
+                        </ul>
+                        
+                        <div class="tab-content">
+                          <div id="home" class="tab-pane fade in active">
+                              <br>
+                              <% include ./form_agenda %>
+                          </div>
+                          <div id="menu1" class="tab-pane fade">
+                              <br>
+                              <% include ./contato %>
+                          </div>
+                          <div id="menu2" class="tab-pane fade">
+                              <br>
+                              <% include ./georeferencia %>
+                          </div>
+                        </div>
+                            
+                  <div class="modal-footer"> 
+                    <button type="button" class="btn btn-primary salvar" data-loading-text="<i class='fa fa-spinner fa-spin '></i> loading..." >Salvar</button>
+                    <button type="button" class="btn btn-danger cancelar-evento">Excluir</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                  </div>
+                </div><!-- /.modal-content -->
+              </div><!-- /.modal-dialog -->
+            </div> 

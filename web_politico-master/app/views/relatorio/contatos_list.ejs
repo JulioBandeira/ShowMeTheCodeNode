@@ -1,0 +1,32 @@
+
+<% include ./header %>
+
+<div class="container body"> 
+<div>
+    <a href="/relatorio/contatos">Voltar</a>
+       <h1>Contatos</h1>
+        <table id="datatable" class="table table-striped table-bordered">
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>Celular</th>
+              <th>Email</th>
+              <th>Endereço</th>
+            </tr>
+          </thead>
+
+          <tbody>
+              <% list.forEach(function(item) { %>
+                <tr>
+                  <td><%= item.nome %></td>
+                  <td><%= item.celular1 %></td>
+                  <td><%= item.email1 %></td>
+                  <td><%= item.rua %>, <%= item.numero %>, <%= item.bairro %>, <%= item.cep %>, <%= item.cidade %>   </td>
+                </tr>
+              <% }); %>
+                
+          </tbody>
+        </table> 
+</div>
+</div>
+<% include ./header %>

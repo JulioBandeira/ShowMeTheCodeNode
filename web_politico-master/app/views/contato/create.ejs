@@ -1,0 +1,41 @@
+<% include ../template/header %>
+
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2> Novo Contato</small></h2>
+        <ul class="nav navbar-right panel_toolbox">
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+        <br>
+        
+           <% if(messages.erro)
+             {messages.erro.forEach(function(error){%>
+                <div class="alert alert-danger"><%= error %></div>
+          <% })} %>
+      
+      <form method="POST" action="/contato/create">
+        <div class="col-md-8 col-md-offset-2">
+          
+          <% include ./form %>
+
+          <div class="row"> 
+            <div class="col-md-12"> 
+              <button type="submit" class="btn btn-success">Salvar</button>
+            </div>
+
+          </div>
+        </div>
+      </form>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<% include ../template/footer %>

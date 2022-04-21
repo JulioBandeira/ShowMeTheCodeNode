@@ -1,0 +1,137 @@
+<% include ../template/header %>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsORswvfIOdE5ZfCHwW5cFs7Tkb9dfHd8"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+<style>
+        #map{
+           height:800px;
+           width:100%;
+         }
+</style>
+
+<div class="row">
+  
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        <label>Filtro</label>
+        <select class="form-control filter">
+           <option value="todos">Todos</option>
+           <option value="contato">Contatos</option>
+           <option value="zona">Zonas</option>
+           <option value="agenda">Agenda/Evento</option>
+           <option value="lideranca">Liderenças</option>
+        </select>
+    </div>
+
+   <div class="col-md-12 col-sm-12 col-xs-12">
+      <!-- <label>Local de Votação</label> -->
+
+    <!-- <div class="form-group">
+       <select  class="select2" style="width: 100%" id="local_de_votacao" name="local_de_votacao"  data-url = "/local_votacao/get_locais">
+    
+      </select>
+    </div> -->
+  </div>
+</div>
+
+<hr>
+
+<!-- <div class="row">
+  <div class="col-md-12">
+    <button type="button" class="btn btn-primary filter">Filtrar</button>
+  </div>
+</div> -->
+
+<div id="map"></div>    
+
+
+
+<% include ../template/footer %>
+
+<script>
+
+ var map = new google.maps.Map(document.getElementById('map'), {
+           center:{lat:-8.762996,lng: -63.835537},
+           zoom: 10});
+
+// get_map('/maps/json', 'red', map);   
+// get_map('/maps/json', 'red', map);   
+// get_map('/local_votacao/local_coordenada', 'blue', map);    
+get_map('/maps/secao', 'yellow', map);  
+
+ 
+ function get_map(route, color_icon, map){
+
+   axios.get(route)
+       .then(function(response){
+            // // Loop through markers
+             for(var i = 0;i < response.data.length;i++){
+               //Add marker
+                 addMarker(response.data[i]);
+             }
+             // Add Marker Function
+             function addMarker(props){
+               
+               console.log(props)
+ 
+               var marker = new google.maps.Marker({
+                position:props.coords,
+                // position: new google.maps.LatLng(markers[i][1], markers[i][2]),
+                 map:map,
+                 icon: 'http://maps.google.com/mapfiles/ms/icons/'+ color_icon + '-dot.png',
+               });
+       
+               // Check for customicon
+               if(props.iconImage){
+                 // Set icon image
+                 //marker.setIcon('http://maps.google.com/mapfiles/ms/icons/blue-dot.png');
+                 marker.setIcon(props.iconImage);
+               }
+       
+               // Check content
+               if(props.content){
+                 var infoWindow = new google.maps.InfoWindow({
+                   content:props.content
+                 });
+       
+                 marker.addListener('click', function(){
+                   infoWindow.open(map, marker);
+                 });
+               }
+             }
+ 
+       });
+ }       
+
+$('.filter').on('change', function(){
+
+    
+  var map = new google.maps.Map(document.getElementById('map'), {
+           center:{lat:-8.762996,lng: -63.835537},
+           zoom: 10});
+           
+   if($(this).val() === 'contato')
+      get_map('/maps/json', 'red', map);
+   if($(this).val() === 'zona')
+     get_map('/maps/secao', 'blue', map);  
+   if($(this).val() === 'agenda')  
+      get_map('/eventos/local_coordenadas', 'yellow', map);
+   if($(this).val() === 'lideranca')  
+      get_map('/maps/get_lideranca', 'green', map);   
+   if ($(this).val() === 'todos')  {
+    get_map('/maps/json', 'red', map);   
+    get_map('/maps/secao', 'blue', map);  
+    get_map('/eventos/local_coordenadas', 'yellow', map);  
+    get_map('/maps/get_lideranca', 'green', map);  
+   }      
+});
+</script>
+
+
+
+<!-- google.maps.event.addListener(map, "click", function (e) {
+
+  //lat and lng is available in e object
+  var latLng = e.latLng;
+
+}); -->
+

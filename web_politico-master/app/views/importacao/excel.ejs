@@ -1,0 +1,40 @@
+<% include ../template/header %>
+
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2> Up o arquivo do excel</small></h2>
+        <ul class="nav navbar-right panel_toolbox">
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+        <br>
+        
+           <% if(messages.erro)
+             {messages.erro.forEach(function(error){%>
+                <div class="alert alert-danger"><%= error %></div>
+          <% })} %>
+      
+          <form action="/importacao/for_exce" enctype="multipart/form-data" method="POST">
+
+            <div class="section">Upload do Excel</div>
+            <div class="inner-wrap">
+              <label><input type="file" id="photo" name="photo" /></label>
+            </div>
+            
+            <div class="row"> 
+              <div class="col-md-12"> 
+                <button type="submit" class="btn btn-success">Enviar</button>
+              </div>
+            </div>
+      </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<% include ../template/footer %>

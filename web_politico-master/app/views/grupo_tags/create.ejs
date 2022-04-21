@@ -1,0 +1,23 @@
+<% include ../template/header %>
+
+<h2> Novo Grupo de Tag </h2>
+<hr>
+ 
+<% if(messages.erro)
+{messages.erro.forEach(function(error){%>
+    <div class="alert alert-danger"><%= error %></div>
+<% })} %>  
+
+<form method="POST" action="/grupo_tags/create" class="form-horizontal form-label-left">
+
+   <% include ./form %> 
+
+<div class="row"> 
+    <div class="col-md-12"> 
+     <button type="submit" class="btn btn-success">Salvar</button>
+   </div>
+ </div>
+
+ </form>   
+
+<% include ../template/footer %>

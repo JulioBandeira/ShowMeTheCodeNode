@@ -1,0 +1,69 @@
+<% include ../template/header %>
+
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2> Editar Notícia</small></h2>
+        <ul class="nav navbar-right panel_toolbox">
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+        <br>
+
+          <% if(messages.erro)
+              {messages.erro.forEach(function(error){%>
+                  <div class="alert alert-danger"><%= error %></div>
+          <% })} %>      
+
+          <form action="/noticia/edit"  enctype="multipart/form-data" method="POST"> 
+            <div class="col-md-12">
+             
+            <input type="hidden" name="id" value="<%= body.id-%>">
+            <input type="hidden" name="path" value="<%= body.path-%>">
+           
+            <% include ./form %>
+
+            <div class="row"> 
+              <div class="col-md-12"> 
+                <button type="submit" class="btn btn-success">Salvar</button>
+              </div>
+            </div>
+          </div>
+      </form>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+   
+<% include ../template/footer %>
+<script src="https://cdn.ckeditor.com/4.10.0/full/ckeditor.js"></script>
+
+<script>
+  
+CKEDITOR.replace( 'edit');
+
+var tipo = '<%= body.tipo_noticia_img-%>';
+
+$('#tipo_noticia_img').val(tipo)
+toogle_div_upload(tipo)
+
+$('#tipo_noticia_img').on('click', function(){
+  toogle_div_upload($(this).val())
+});
+
+function toogle_div_upload(tipo_img){
+  if(tipo_img == 'destaque' || tipo_img == 'comum')  $('.up-img').show();
+  else $('.up-img').hide();
+}
+
+</script>
+
+
+
+
+

@@ -1,0 +1,95 @@
+<div class="row"> 
+  
+  <input type="hidden" id="contato_agenda_id" name="contato_agenda_id">   
+    
+         <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="form-group">
+           <label>Quem Indicou</label>
+    
+           <select  class="form-control chosen-ajax-deselect" id="indicacao" name="indicacao"  data-url = "/contato/get_contatoss">
+             <option value="" >  </option>
+          </select>
+          </div>
+        </div>
+        
+</div>
+      
+<div class="row"> 
+    <div class="col-md-12">
+        <button type="button" class="btn btn-primary salvar" data-loading-text="<i class='fa fa-spinner fa-spin '></i> loading..." >Salvar</button>
+    </div>
+  </div>
+      
+      <h4> Dados para Contato </h4>
+      
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="form-group">
+        <label>Nome</label>
+        <input name="nome" id="nome_agenda" class="form-control" placeholder="Informe o nome completo" value="">
+      </div>
+      </div>
+      
+          <div class="col-md-6 col-sm-12 col-xs-12">
+              <div class="form-group">
+            <label>Celular</label>
+            <input name="celular1" class="form-control"  data-inputmask="'mask': '(99) 99999-9999'" value="">
+          </div>
+          </div>
+    
+        </div>
+    
+      <h4> Endereço </h4>
+      
+      <div class="row">
+          <div class="col-md-3 col-sm-12 col-xs-12">
+              <div class="form-group">
+            <label>CEP</label>
+            <input name="cep" id="cep" class="form-control search-end" data-inputmask="'mask': '99999-999'" value="">
+          </div>
+         </div>
+        
+         <div class="col-md-3 col-sm-12 col-xs-12">
+            <div class="form-group">
+          <label>Estado/Cidade</label>
+          <input name="cidade" id="cidade" class="form-control" value="">
+         </div>
+        </div>
+      
+         <div class="col-md-6 col-sm-12 col-xs-12">
+            <div class="form-group">
+          <label>RUA</label>
+          <input name="rua" class="form-control" id="rua" value="">
+         </div>
+        </div>
+      
+        <div class="col-md-6 col-sm-12 col-xs-12">
+          <div class="form-group">
+        <label>Bairro</label>
+        <input name="bairro" class="form-control" id="bairro" value="">
+       </div>
+      </div>
+      
+        <div class="col-md-6 col-sm-12 col-xs-12">
+            <label>Número</label>
+            <div class="input-group">
+               
+                <input type="text" class="form-control search-end" id="numero" name="numero" value="">
+                <span class="input-group-addon" data-toggle="modal" data-target=".bs-busca-end" id="busca-end"><i class="fa fa-search" aria-hidden="true"></i> Endereço</span>
+              </div>
+
+        </div>
+       
+        <input type="hidden" name="latitude" id="latitude"  value="">
+        <input type="hidden" name="longitude" id="longitude" value="">
+    
+      </div>
+
+      <div class="row"> 
+      <div class="col-md-12">
+          <button type="button" class="btn btn-primary salvar-contato" data-loading-text="<i class='fa fa-spinner fa-spin '></i> loading..." >Add Contato pra Agenda</button>
+          <button type="button" class="btn btn-primary salvar-contato" data-loading-text="<i class='fa fa-spinner fa-spin '></i> loading..." >Atualizar Contato pra Agenda</button>
+      </div>
+    </div>
+
+    

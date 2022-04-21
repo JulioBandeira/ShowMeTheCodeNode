@@ -1,0 +1,33 @@
+<div class="row"> 
+   
+        <div class="col-md-6">
+            <div class="form-group">
+            <label>Nome </label>
+            <input class="form-control" value="<%- body.nome %>" name="nome">
+            </div>
+        </div>
+
+         <div class="col-md-6">
+            <div class="form-group">
+              <label>CPF </label>
+              <input class="form-control" value="<%- body.cpf %>" name="cpf">
+            </div>
+        </div>
+
+        <div class="col-md-6">
+                <div class="form-group">
+                  <label> Senha </label>
+                  <input type="password" value="<%- body.cpf %>" class="form-control" name="senha">
+                </div>
+        </div>
+
+        <div class="col-md-6">
+                <div class="form-group">
+                        <label>Tipo de Contato </label>
+                        <select name="role" class="form-control">
+                          <option value="admin"> Administrador </option>
+                          <option value="user">Usuário Comum</option> 
+                        </select>
+                      </div>
+        </div>    
+</div>

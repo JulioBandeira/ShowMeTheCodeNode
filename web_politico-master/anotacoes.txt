@@ -1,0 +1,55 @@
+$ node_modules/.bin/sequelize migration:generate --name change-colum
+
+$ node_modules/.bin/sequelize
+
+$ node_modules/.bin/sequelize db:migrate
+$ node_modules/.bin/sequelize db:migrate:undo
+
+apis para busca cep
+
+// http://viacep.com.br/
+
+// http://avisobrasil.com.br/correio-control/api-de-consulta-de-cep/
+
+// http://cep.correiocontrol.com.br/01234000.json
+
+// http://postmon.com.br/
+
+// http://www.republicavirtual.com.br/cep/
+
+// http://cepaberto.com/
+
+// http://m.correios.com.br/movel/buscaCepConfirma.do
+
+// http://www.buscacep.correios.com.br/
+
+// http://www.byjg.com.br/site/xmlnuke.php?xml=home
+
+// http://www.multitabelas.com.br/paginas/cep/
+
+// https://multitabelas.speedyrevolution.com.br/#/cep
+
+// http://correiosapi.apphb.com/ ( Descontinuado )
+
+// http://www.qualocep.com/
+
+// http://www.agenciamapa.com.br/webservice/
+
+// http://ceplivre.com.br/comofunciona
+
+// http://apps.widenet.com.br/busca-cep/api-de-consulta
+
+// https://cep-bemean.herokuapp.com/
+
+
+        "username": "app_sa",
+ 
+        "password": "phjt38s111",
+ 
+        "database": "app_politico",
+ 
+        "host": "mysql986.umbler.com",
+ 
+        "dialect": "mysql",
+
+        "port": "41890"

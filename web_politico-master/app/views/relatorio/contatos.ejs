@@ -1,0 +1,75 @@
+<% include ../template/header %>
+
+<div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="x_panel">
+            <div class="x_title">
+              <h2> Relatório dos Contatos</small></h2>
+              <ul class="nav navbar-right panel_toolbox">
+                
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+              <br>
+              
+                 <% if(messages.erro)
+                   {messages.erro.forEach(function(error){%>
+                      <div class="alert alert-danger"><%= error %></div>
+                <% })} %>
+                <form method="POST" target="_blank" action="/relatorio/contatos">
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="row">
+
+                            <div class="col-md-6 col-sm-12 col-xs-12">
+                                <div class="form-group">
+                                <label>Por Liderança</label>
+                                  <select class="select2" style="width: 100%" name="lideranca"  data-url = "/contato/get_contatos">
+                                  <option ></option>
+                                  </select>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 cpf col-sm-12 col-xs-12">
+                                <div class="form-group">
+                                    <label>Por Bairro</label>
+                                    <input type="text" class="form-control" name="bairro">
+                                      <!-- <select  class="form-control chosen-ajax-bairro" name="bairro"  data_url = "/contato/get_bairro">
+                                      <option ></option>
+                                    </select> -->
+                                  </div>
+                            </div>
+                            
+                            <div class="col-md-6 cpf col-sm-12 col-xs-12">
+                                <div class="form-group">
+                                    <label>Colégio Eleitoral</label>
+                                    <select class="select2" style="width: 100%" id="local_de_votacao" name="local_de_votacao"  data-url = "/local_votacao/get_locais">
+                                      <option ></option>
+                                    </select>
+                                  </div>
+                            </div>
+                            
+                            <div class="col-md-6 cpf col-sm-12 col-xs-12">
+                                <label>Data Nascimento</label> 
+                                <div class='input-group date myDatepicker'>
+                                    <input type='text' name="data_nascimento" id="data_nascimento" class="form-control" data-inputmask="'mask' : '99/99/9999'"/>
+                                    <span class="input-group-addon">
+                                       <span class="glyphicon glyphicon-calendar"></span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>  
+                    
+                    <div class="row"> 
+                      <div class="col-md-12"> 
+                        <button type="submit" class="btn btn-success salvar">Gerar Relatório</button>
+                      </div>
+                    </div>
+                    </div>
+                </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+<% include ../template/footer %>

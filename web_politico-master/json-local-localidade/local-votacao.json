@@ -1,0 +1,5457 @@
+{
+    "data": [
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "ALKINDAR BRASIL DE AROUCA - ESTADUAL",
+            "endereco": "AV. 1 DE MAIO N 718",
+            "bairro": "10 DE ABRIL",
+            "codigo": "1210",
+            "latitude": "-10.7755687",
+            "longitude": "-65.3211919"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "CASA DE DETENÇÃO GUAJARÁ MIRIM",
+            "endereco": "AV. MASCARENHAS DE MORAIS",
+            "bairro": "10 DE ABRIL",
+            "codigo": "1341",
+            "latitude": "-10.7780152",
+            "longitude": "-65.3232881"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "ESCOLA ESTADUAL INDÍGENA 05 DE JULHO",
+            "endereco": "RIO GUAPORÉ",
+            "bairro": "ALDEIA RICARDO FRANCO",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "ESCOLA INDIGENA POSSIDONIO BASTOS",
+            "endereco": "POSTO INDIGENA RIO NEGRO OCAIA",
+            "bairro": "ALDEIA RIO NEGRO OCAIA",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "ESCOLA INDIGENA ABRAAO KOOP",
+            "endereco": "POSTO INDIGENA SANTO ANDRE - RIO PACAAS NOVOS",
+            "bairro": "ALDEIA SANTO ANDRE",
+            "codigo": "1295",
+            "latitude": "-11.0399822",
+            "longitude": "-64.4331596"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "SAUL BENNESBY - MUNICIPAL",
+            "endereco": "AV. 12 DE OUTUBRO N 3221",
+            "bairro": "CAETANO",
+            "codigo": "1031",
+            "latitude": "-10.7543994",
+            "longitude": "-65.30858049999999"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "SIMON BOLIVAR - ESTADUAL",
+            "endereco": "AV. XV DE NOVEMBRO N 338",
+            "bairro": "CENTRO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "PAULO SALDANHA - ESTADUAL",
+            "endereco": "AV. GETULIO VARGAS N 430",
+            "bairro": "CENTRO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "SALOMÃO JUSTINIANO DE MELGAR - ESTADUAL",
+            "endereco": "AV. TANCREDO DE MATOS S/N.",
+            "bairro": "DISTRITO DE SURPRESA",
+            "codigo": "1198"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "GASPAR DUTRA - IATA - ESTADUAL",
+            "endereco": "AV. RORAIMA N 3154",
+            "bairro": "DISTRITO DO IATA",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "CASA DE PRISÃO E ALBERGUE FEMININO DE GUAJARÁ MIRIM",
+            "endereco": "AV. ANTONIO CORREIA DE COSTA S/N",
+            "bairro": "INDUSTRIAL",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "MARIA LIBERTY - MUNICIPAL",
+            "endereco": "RUA 41, S/N",
+            "bairro": "JARDIM DAS ESMERALDAS",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "JOSE CARLOS NERI - MUNICIPAL",
+            "endereco": "AV. JOSE CARLOS PEREIRA NERI N 4484",
+            "bairro": "PROSPERO",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "TEOFILO LIMAO DE SOUZA - MUNICIPAL",
+            "endereco": "BOM SOSSEGO, KM 60 - RAMAL CACHOEIRINHA",
+            "bairro": "RAMAL CACHOEIRINHA",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "BARRACAO DO POMPEU - COMUNIDADE",
+            "endereco": "RESEVA RIO ORO PRETO",
+            "bairro": "RESERVA RIO ORO PRETO - POMPEU",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "IRMA HILDA - MUNICIPAL",
+            "endereco": "AV DUQUE DE CAXIAS N 2140",
+            "bairro": "SANTA LUZIA",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "ROCHA LEAL - ESTADUAL",
+            "endereco": "AV DR LEWERGER N 1194",
+            "bairro": "SAO JOSE",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "CAPITAO GODOY - ESTADUAL",
+            "endereco": "AV CANDIDO RONDON N 1379",
+            "bairro": "SAO JOSE",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "IRMA MARIA CELESTE - ESTADUAL",
+            "endereco": "AV. JOSE BONIFACIO N 101",
+            "bairro": "SERRARIA",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 1",
+            "municipio": "GUAJARÁ-MIRIM",
+            "local": "ALMIRANTE TAMANDARE - ESTADUAL",
+            "endereco": "AV. 12 DE OUTUBRO N 1219",
+            "bairro": "TAMANDARE",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "CANDIDO RONDON 3ª RIBEIRÃO - MUNICIPAL",
+            "endereco": "TERCEIRA LINHA DO RIBEIRÃO C/ TRAVESSAO",
+            "bairro": "3ª LINHA DO RIBEIRÃO",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "CASSIMIRO DE ABREU - ESTADUAL",
+            "endereco": "AV. JOSE RIBEIRO DA COSTA N 7198",
+            "bairro": "CENTRO",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "SALOMAO SILVA - ESTADUAL",
+            "endereco": "AV. RAIMUNDO FERNANDES N 3055",
+            "bairro": "CIDADE NOVA",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "NAPOLEO LOBO DE MIRANDA - MUNICIPAL",
+            "endereco": "BR 425 KM 42 - ARARAS",
+            "bairro": "DISTRITO DE ARARAS",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "LAURINDA GROFF - ESTADUAL",
+            "endereco": "BR 421 KM 60 - NOVA MAMORÉ",
+            "bairro": "DISTRITO DE NOVA DIMENSAO",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "ONORINA DE SOUZA - LH 28 - MUNICIPAL",
+            "endereco": "BR 421 KM 60",
+            "bairro": "DISTRITO DE NOVA DIMENSAO",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "LUCIANA MARONARI LH20 - MUNICIPAL",
+            "endereco": "BR 421 KM 40 - NOVA MAMORÉ",
+            "bairro": "DISTRITO DE PALMEIRAS",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "OZEIAS MARTINS - JACINÓPOLIS - MUNICIPAL",
+            "endereco": "AV. MAL. RONDON, SETOR 1, QUADRA 06 E 04",
+            "bairro": "DISTRITO JACINOPOLIS",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "OSVALDO RIBEIRO DO NASCIMENTO LH 34 - MUNICIPAL",
+            "endereco": "BR 421 KM 80",
+            "bairro": "LINHA 34 D",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "MARIA ALEUDA LH 8 D - MUNICIPAL",
+            "endereco": "BR 421 KM 12 - NOVA MAMORÉ",
+            "bairro": "LINHA 8 D",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "EDUARDO VALVERDE - MUNICIPAL",
+            "endereco": "AV. ULISSES GUIMARÃES, 7224",
+            "bairro": "NOVA REDENCAO",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 1",
+            "municipio": "NOVA MAMORÉ",
+            "local": "JORGE TEIXEIRA - MUNICIPAL",
+            "endereco": "AV. RAIMUNDO FERNANDES N 4312",
+            "bairro": "PLANALTO",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 2",
+            "municipio": "ITAPUÃ DO OESTE",
+            "local": "DR CUSTODIO - ESCOLA MUNICIPAL",
+            "endereco": "AV. COSTA E SILVA, SN - FONE (69) 3231-2524",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 2",
+            "municipio": "ITAPUÃ DO OESTE",
+            "local": "SOSSEGO DA MAMAE - ESCOLA MUNICIPAL",
+            "endereco": "RUA AIRTON SENA, S/N, FONE (069) 3231-2530",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 2",
+            "municipio": "ITAPUÃ DO OESTE",
+            "local": "JOAO FRANCISCO CORREIA - ESCOLA ESTADUAL",
+            "endereco": "RUA SENADOR OLAVO PIRES, S/N, FONE/FAX (069) 3231-2429",
+            "bairro": "CENTRO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 2",
+            "municipio": "ITAPUÃ DO OESTE",
+            "local": "PAULO FREIRE - ESCOLA ESTADUAL",
+            "endereco": "RUA AYRTON SENNA, S/N, FONE (69) 3231-2329 / 2531",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 2",
+            "municipio": "ITAPUÃ DO OESTE",
+            "local": "MONTEIRO LOBATO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 623 - KM 40",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 2",
+            "municipio": "ITAPUÃ DO OESTE",
+            "local": "CECILIA MEIRELES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA B40 KM 4 - SETOR RURAL",
+            "bairro": "zona RURAL",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ENGENHO DO MADEIRA - ESCOLA MUNICIPAL",
+            "endereco": "RAMAL SÃO SEBASTIÃO - KM 6",
+            "bairro": "AGROVILA NOVO ENGENHO VELHO",
+            "codigo": "1600"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "PEDRO TAVARES BATALHA - ESCOLA MUNICIPAL",
+            "endereco": "RUA ALBA, 5972",
+            "bairro": "APONIA",
+            "codigo": "1775"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "QUATRO DE JANEIRO - ESCOLA ESTADUAL",
+            "endereco": "RUA DOIS S/N TERCEIRA ETAPA",
+            "bairro": "APONIA",
+            "codigo": "1708"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA MUNICIPAL OLAVO PIRES",
+            "endereco": "RUA ANDRÉA N 5039",
+            "bairro": "APONIA",
+            "codigo": "1740"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "CARMELA DUTRA INSTITUTO ESTADUAL",
+            "endereco": "AV. FARQUAR 1913",
+            "bairro": "ARIGOLANDIA",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "BARAO DO SOLIMOES - ESCOLA ESTADUAL",
+            "endereco": "RUA JOSE BONIFACIO 351",
+            "bairro": "CAIARI",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "INTERAÇÃO - PARTICULAR",
+            "endereco": "RUA IRMA CAPELLI, 64",
+            "bairro": "CENTRO",
+            "codigo": "1538"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "MURILO BRAGA - ESCOLA ESTADUAL",
+            "endereco": "AV SETE DE SETEMBRO, 1561",
+            "bairro": "CENTRO",
+            "codigo": "1473"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "PENITENCIÁRIA ESTADUAL FEMININA - PENFEM",
+            "endereco": "AV. FARQUAR, 1533",
+            "bairro": "CENTRO",
+            "codigo": "1465"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "CENTRO DE ENSINO CLASSE A",
+            "endereco": "AV. CARLOS GOMES,1135",
+            "bairro": "CENTRO",
+            "codigo": "1562"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ERMELINDO MONTEIRO BRASIL - ESCOLA MUNICIPAL",
+            "endereco": "BR 319 - KM 1",
+            "bairro": "CJ HABITACIONAL POPULAR DNIT",
+            "codigo": "1597"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA MARIA DO CARMO RIBEIRO - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA DO BELMONT - KM 08",
+            "bairro": "COMUNIDADE BELMONTE",
+            "codigo": "1619"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "MARIA IZAURA DA COSTA CRUZ - ESCOLA MUNICIPAL",
+            "endereco": "RUA JARDIM, 3419",
+            "bairro": "COSTA E SILVA",
+            "codigo": "1481"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA SANTA MARCELINA (BRASÍLIA)",
+            "endereco": "RUA BELÉM, N. 263 - EMBRATEL - TEL 3225 - 2888",
+            "bairro": "EMBRATEL",
+            "codigo": "1660"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA SANTA MARCELINA",
+            "endereco": "RUA BELO HORIZONTE, N. 3331, bairro EMBRATEL",
+            "bairro": "EMBRATEL",
+            "codigo": "1643"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "DARCY RIBEIRO - ESCOLA MUNICIPAL",
+            "endereco": "RUA JOSÉ VIEIRA CAULA, 6662 DIR.3901 3337",
+            "bairro": "ESPERANCA DA COMUNIDADE",
+            "codigo": "1759"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ELOISA BENTES RAMOS - ESCOLA ESTADUAL",
+            "endereco": "RUA COIMBRA, 4994 - FONE 3026-2695",
+            "bairro": "FLODOALDO PONTES PINTO",
+            "codigo": "1732"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "BELEZAS DO BURITI- ESCOLA MUNICIPAL (FLORA CALHEIROS)",
+            "endereco": "RUA TRINDADE, 3454",
+            "bairro": "FLODOALDO PONTES PINTO",
+            "codigo": "1694"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "JOSE OTINO DE FREITAS - ESCOLA MUNICIPAL",
+            "endereco": "RUA DA CASSITERITA, 4608",
+            "bairro": "FLODOALDO PONTES PINTO",
+            "codigo": "1651"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "IFRO - INSTITUTO DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DE RONDONIA",
+            "endereco": "AV CALAMA, 4985",
+            "bairro": "FLODOALDO PONTES PINTO",
+            "codigo": "1678"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ROBERTO DUARTE PIRES - ESCOLA ESTADUAL",
+            "endereco": "OSVALDO LACERDA, 5895",
+            "bairro": "IGARAPE",
+            "codigo": "1716"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "JOÃO RIBEIRO - ESCOLA MUNICIPAL",
+            "endereco": "RUA ANDREIA, 4837",
+            "bairro": "IGARAPE",
+            "codigo": "1767"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "TIRADENTES - ESCOLA ESTADUAL",
+            "endereco": "AV. DOS IMIGRANTES, 4884",
+            "bairro": "INDUSTRIAL",
+            "codigo": "1503"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "21 DE ABRIL - ESCOLA ESTADUAL",
+            "endereco": "RUA RAFAEL VAZ E SILVA, 2812",
+            "bairro": "LIBERDADE",
+            "codigo": "1546"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "LUIZ SOARES DE CÁSSIA - ESCOLA MUNICIPAL",
+            "endereco": "RUA INDEPENDÊNCIA",
+            "bairro": "MARINGA",
+            "codigo": "1686"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "DR OSWALDO PIANA - ESCOLA ESTADUAL",
+            "endereco": "RUA DO CANIL, 6614",
+            "bairro": "NACIONAL",
+            "codigo": "1449"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "NACIONAL - ESCOLA MUNICIPAL",
+            "endereco": "RUA VANDERLEI PONTES N 3298",
+            "bairro": "NACIONAL",
+            "codigo": "1635"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "RIO MADEIRA - ESCOLA MUNICIPAL",
+            "endereco": "ALAMEDA ROQUETE PINTO, 4483",
+            "bairro": "NOVA ESPERANCA",
+            "codigo": "1490"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "INSTITUTO LAURA VICUNA - ESCOLA PARTICULAR",
+            "endereco": "RUA BENJAMIN CONSTANT 1531",
+            "bairro": "OLARIA",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "SENAC SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL",
+            "endereco": "RUA TABAJARA, 539",
+            "bairro": "PANAIR",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "MARECHAL CASTELO BRANCO - ESCOLA ESTADUAL",
+            "endereco": "AV. FARQUAR 2739",
+            "bairro": "PANAIR",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "NACOES UNIDAS - ESCOLA ESTADUAL",
+            "endereco": "RUA C - DINAMARCA, 2294",
+            "bairro": "PEDRINHAS",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "PÉ DE MURICI - ESCOLA MUNICIPAL",
+            "endereco": "AVENIDA CALAMA, 8354",
+            "bairro": "PLANALTO",
+            "codigo": "1724"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "JOSÉ DE FREITAS - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 9",
+            "bairro": "PROJETO ASSENTAMENTO JOANA D'ARC I",
+            "codigo": "1570"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "RIACHO AZUL - ESCOLA MUNICIPAL",
+            "endereco": "RAMAL SÃO DOMINGOS - KM 18",
+            "bairro": "REASSENTAMENTO RIACHO AZUL",
+            "codigo": "1589"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "JONH KENNEDY - ESCOLA ESTADUAL",
+            "endereco": "RUA SALGADO FILHO, 2286",
+            "bairro": "SAO CRISTOVAO",
+            "codigo": "1520"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "MAJOR GUAPINDAIA - ESCOLA ESTADUAL",
+            "endereco": "RUA PADRE CHIQUINHO, 2375",
+            "bairro": "SAO JOAO BOSCO",
+            "codigo": "1554"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "PADRE MORETTI - CENTRO EDUCACIONAL (SAMARITANA)",
+            "endereco": "AV. HERBERT DE AZEVEDO, 1649",
+            "bairro": "SAO JOAO BOSCO",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "SAO SEBASTIAO I - ESCOLA ESTADUAL",
+            "endereco": "RUA CASTRO ALVES, 5965",
+            "bairro": "SAO SEBASTIAO",
+            "codigo": "1406"
+        },
+        {
+            "zona": " 2",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA JOSÉ RODRIGUES - MUNICIPAL",
+            "endereco": "LINHA MUCUIM",
+            "bairro": "VILA FRANCISCANA",
+            "codigo": "1627"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "JOVEM GONÇALVES VILELA - ESCOLA ESTADUAL",
+            "endereco": "RUA ANTONIO FERREIRA DE FREITAS, 211",
+            "bairro": "02 DE ABRIL",
+            "codigo": "1554"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "BIBLIOTECA MUNICIPAL - CYRO ESCOBAR RIBEIRO",
+            "endereco": "AV TRANSCONTINENTAL, 437",
+            "bairro": "CENTRO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "PRIMEIRA DELEGACIA REGIONAL DA SAÚDE",
+            "endereco": "RUA JULIO GUERRA, 370",
+            "bairro": "CENTRO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "SEMAS - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+            "endereco": "AV. MARECHAL RONDON, 1380",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "SECRETARIA DE EST FINANÇAS - SEFIN",
+            "endereco": "AV. TRANSCONTINENTAL, 501",
+            "bairro": "CENTRO",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "DNIT - DEPTO NACIONAL DE INFRA-ESTRUTURA DE TRANSPORTES",
+            "endereco": "RUA PEDRO TEIXEIRA, 1572",
+            "bairro": "CENTRO",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "GONÇALVES DIAS - ESCOLA ESTADUAL",
+            "endereco": "RUA MONTE CASTELO, 395",
+            "bairro": "JARDIM DOS MIGRANTES",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "INSTITUTO FEDERAL DE EDUC CIÊNCIA E TECN DE RONDÔNIA - IFRO",
+            "endereco": "RUA RIO AMAzonaS, 151",
+            "bairro": "JARDIM DOS MIGRANTES",
+            "codigo": "1384"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "CENTRO SOCIOEDUCATIVO DE JI-PARANA",
+            "endereco": "RUA DOIS DE ABRIL N. 3003",
+            "bairro": "JARDIM PRESIDENCIAL",
+            "codigo": "1589"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "INACIO DE LOYOLA - ESCOLA ESTADUAL",
+            "endereco": "AV. JORGE TEIXEIRA, 1110",
+            "bairro": "NOVA LONDRINA",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "CEL JORGE TEIXEIRA DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA SAULO DE ALCÂNTARA, 2070",
+            "bairro": "NOVA LONDRINA",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "LAURO BENNO PREDIGER - ESCOLA ESTADUAL",
+            "endereco": "RUA AVENCA, 2042",
+            "bairro": "SANTIAGO",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "13 DE MAIO - ESCOLA ESTADUAL",
+            "endereco": "RUA DOS CRAVOS, 2624",
+            "bairro": "SANTIAGO",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "CASA DE DETENÇÃO DE JI- PARANÁ",
+            "endereco": "02 DE ABRIL, S/N",
+            "bairro": "URUPA",
+            "codigo": "1570"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "RIO URUPA - ESCOLA ESTADUAL",
+            "endereco": "RUA MATO GROSSO, 534",
+            "bairro": "URUPA",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "PROF EDSON LOPES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 20 GLEBA 4-C SETOR ITAPIREMA",
+            "bairro": "zona RURAL",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "COMUNIDADE SÃO SEBASTIÃO",
+            "endereco": "BR 364, KM 13 SAIDA PARA PORTO VELHO DEPENDENCIAS DA IGREJA CATÓLICA",
+            "bairro": "zona RURAL",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "ULISSES MATOSINHO PERES DE PONTES - ESCOLA MUNICIPAL",
+            "endereco": "TERCEIRA LINHA DA GLEBA G",
+            "bairro": "zona RURAL",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "DER - DEPTO DE ESTRADAS DE RODAGEM E TRANSPORTE",
+            "endereco": "BR 364, KM 08 - SAIDA PARA PORTO VELHO AO LADO DA SAL MAX",
+            "bairro": "zona RURAL",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "TUPI - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 8 SETOR ITAPIREMA",
+            "bairro": "zona RURAL",
+            "codigo": "1503"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "ANTÔNIO PRADO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 206, KM 18, LOTE 49, GLEBA 31",
+            "bairro": "zona RURAL",
+            "codigo": "1562"
+        },
+        {
+            "zona": " 3",
+            "municipio": "JI-PARANÁ",
+            "local": "PAULO FREIRE - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 153 ESQUINA COM 207",
+            "bairro": "zona RURAL",
+            "codigo": "1422"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "FLORESTAN FERNANDES - ESCOLA MUNICIPAL - ASSENTAMENTO",
+            "endereco": "ASSENTAMENTO CHICO MENDES I, QUARTA LINHA",
+            "bairro": "ASSENTAMENTO CHICO MENDES 1",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "DOROTHY - IRMÃ DOROTHY MÃE STANG - ESCOLA ESTADUAL - ASSENT 6 LINHA",
+            "endereco": "ASSENTAMENTO CHICO MENDES 3, SEXTA LINHA, SETOR MUQUI",
+            "bairro": "ASSENTAMENTO CHICO MENDES 3",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "15 DE NOVEMBRO - ESCOLA ESTADUAL",
+            "endereco": "AVENIDA PORTO VELHO, 1445",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "SUPLETIVO - CEEJA MARECHAL RONDON - ESCOLA ESTADUAL",
+            "endereco": "AV. DOM BOSCO, 1767",
+            "bairro": "CENTRO",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "CADEIA PÚBLICA DE PRESIDENTE MÉDICI",
+            "endereco": "RUA MINAS GERAIS, N. 2776",
+            "bairro": "CENTRO",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "PRIMEIROS TRAÇOS - ESCOLA MUNICIPAL",
+            "endereco": "AV. JI-PARANA, 1191",
+            "bairro": "CUNHA E SILVA",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "CDA - CARLOS DRUMMOND DE ANDRADE - ESCOLA ESTADUAL",
+            "endereco": "RUA MARINGÁ, 2340",
+            "bairro": "CUNHA E SILVA",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "EMBURANA - ESCOLA ESTADUAL - DISTRITO ESTRELA DE RONDONIA",
+            "endereco": "DISTRITO ESTRELA DE RONDONIA",
+            "bairro": "DISTRITO ESTRELA DE RONDONIA",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "DONA BENTA - ESCOLA ESTADUAL - RIACHUELO",
+            "endereco": "NOVO RIACHUELO",
+            "bairro": "DISTRITO NOVO RIACHUELO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "PAULO FREIRE - PROF PAULO FREIRE - ESCOLA ESTADUAL",
+            "endereco": "RUA OTÁVIO RODRIGUES DE MATOS, 2187",
+            "bairro": "ERNANDES GONÇALVES",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "MÉDICI - PRESIDENTE EMÍLIO GARRASTAZU MÉDICI - ESCOLA ESTADUAL",
+            "endereco": "RUA VALDEMAR FERNANDES DA SILVA",
+            "bairro": "LINO ALVES TEIXEIRA",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "APOLÔNIA ROSSI JAVARINI - ESCOLA ESTADUAL - VILA BANDEIRA BRANCA",
+            "endereco": "BR 364 - BANDEIRA BRANCA",
+            "bairro": "VILA BANDEIRA BRANCA",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "ESCOLA DA 2 LINHA - PAU BRASIL - ESCOLA ESTADUAL - VILA CAMARGO",
+            "endereco": "VILA CAMARGO, 2 LINHA, SETOR LEITAO",
+            "bairro": "VILA CAMARGO",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "RIO SÃO FRANCISCO - ESCOLA ESTADUAL - VILA SANTO ANTONIO",
+            "endereco": "VILA SANTO ANTONIO",
+            "bairro": "VILA SANTO ANTONIO",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "ESCOLA DA 128 - ESCOLA LIMA BARRETO - ESCOLA MUNICIPAL - LINHA 128",
+            "endereco": "LINHA 128, ESQUINA COM LINHA 114, SETOR RIACHUELO",
+            "bairro": "zona RURAL",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 3",
+            "municipio": "PRESIDENTE MÉDICI",
+            "local": "ESCOLA DA 140 - JUNQUEIRA FREIRE - ESCOLA MUNICIPAL - LINHA 140",
+            "endereco": "LINHA 140",
+            "bairro": "zona RURAL",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "MARIA ARLETE TOLEDO - ESCOLA ESTADUAL",
+            "endereco": "RUA ANA NERI, 6361",
+            "bairro": "ALTO ALEGRE",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "NOVA UNIÃO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 65, LOTE 3",
+            "bairro": "BAIXADãO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "COLÉGIO MILITAR TIRADENTES (ZILDA) ESCOLA ESTADUAL",
+            "endereco": "AV BENNO LUIZ GRAEBIN, 5900",
+            "bairro": "BNH",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "CECÍLIA MEIRELES - ESCOLA ESTADUAL",
+            "endereco": "AV 706 S/N",
+            "bairro": "BODANESE",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "NOEME BARROS PEREIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA AGUSTO NICOELO",
+            "bairro": "BODANESE",
+            "codigo": "1465"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "MARECHAL RONDON - ESCOLA ESTADUAL",
+            "endereco": "AV. LEOPOLDO PERES, 2550",
+            "bairro": "CENTRO",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "WILSON CAMARGO - ESCOLA ESTADUAL",
+            "endereco": "AV. CAPITAO CASTRO, 3050",
+            "bairro": "CENTRO",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "MARIZETI MENDES DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA DOMINGOS LINARES, 450",
+            "bairro": "CENTRO",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "CASA DE DETENÇÃO PROVISÓRIO",
+            "endereco": "AVENIDA CAPITÃO CASTRO, N.2047",
+            "bairro": "CENTRO",
+            "codigo": "1414"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "ALVARES DE AZEVEDO - ESCOLA ESTADUAL",
+            "endereco": "AV LIBERDADE, 3950",
+            "bairro": "CENTRO",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "VILMA VIEIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA 916, S/N",
+            "bairro": "COHAB",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "CRISTO REI - ESCOLA MUNICIPAL",
+            "endereco": "AV. MELVIN JONES, 1093",
+            "bairro": "CRISTO REI",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "ESCOLA MUNICIPAL IQUEZINHA",
+            "endereco": "BR-174, KM 15",
+            "bairro": "GLEBA IQUE",
+            "codigo": "1457"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "MARTIM LUTERO - ESCOLA MUNICIPAL",
+            "endereco": "RUA 594, S/N",
+            "bairro": "JARDIM AMÉRICA",
+            "codigo": "1392"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "CAMARA MUNICIPAL DE VILHENA",
+            "endereco": "AV. TANCREDO NEVES, S/N",
+            "bairro": "JARDIM AMÉRICA",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "SHIRLEI CERUTTI - ESCOLA ESTADUAL",
+            "endereco": "RUA JOSIAS ANTONIO DA SILVA, N. 145",
+            "bairro": "JARDIM DAS OLIVEIRAS",
+            "codigo": "1422"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "ESCOLA MUNICIPAL OMAR GODOY",
+            "endereco": "AVENIDA CURITIBA,4185",
+            "bairro": "JARDIM DAS OLIVEIRAS",
+            "codigo": "1473"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "PAULO FREIRE - ESCOLA ESTADUAL",
+            "endereco": "RUA 11, 682 - SETOR 04",
+            "bairro": "JARDIM ELDORADO",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "CEEJA - COLEGIO SUPLETIVO",
+            "endereco": "AV BENO LUIZ GRAEBIN",
+            "bairro": "JARDIM ELDORADO",
+            "codigo": "1406"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "HERMOGENES ROBERTO NOGUEIRA - ESCOLA MUNICIPAL",
+            "endereco": "AV. VITORIA REGIA, 1420 - QUADRA 18, SETOR 17",
+            "bairro": "JARDIM PRIMAVERA",
+            "codigo": "1384"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "MARIO GRASSO - ESCOLA MUNICIPAL",
+            "endereco": "RUA BELO HORIZONTE, S/N - SETOR 21",
+            "bairro": "JARDIM VILHENA",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "APAE - ASSOCIAÇÃO DE PAIS E AMIGOS EXCEPCIONAIS",
+            "endereco": "AV. TANCREDO NEVES, 2213",
+            "bairro": "MARCOS FREIRE",
+            "codigo": "1481"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "NOVA CONQUISTA - ESCOLA MUNICIPAL - MARIA PAULINA DONADON",
+            "endereco": "FAZENDA VISTA ALEGRE, LOTE09 GLEBA GUAPORE S/N NOVA CONQUISTA",
+            "bairro": "NOVA CONQUISTA",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "GENIVAL NUNES - ESCOLA ESTADUAL",
+            "endereco": "RUA 907, 2078 - SETOR 09",
+            "bairro": "NOVA ESPERANçA",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "IVETE BRUSTOLIN - ESCOLA MUNICIPAL",
+            "endereco": "AV. PARANA, 590 - QUADRA 33 SETOR 06",
+            "bairro": "PARQUE INDUSTRIAL SÃO PAULO",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "PROGRESSO - ESCOLA MUNICIPAL - GLEBA GUAPORE",
+            "endereco": "BR 399 KM 50 GLEBA GUAPORE S/N ESTRADA DO COLORADO DO OESTE",
+            "bairro": "PEROBAL",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "RONALDO ARAGÃO - ESCOLA ESTADUAL",
+            "endereco": "RUA SANTA LUZIA, 893",
+            "bairro": "SANTO ANTÔNIO",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "CASTELO BRANCO - ESCOLA MUNICIPAL - SETOR INDUSTRIAL",
+            "endereco": "BR 364 KM 08 SAIDA PARA CUIABA",
+            "bairro": "SETOR INDUSTRIAL TANCREDO NEVES",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "MACHADO DE ASSIS - ESCOLA ESTADUAL",
+            "endereco": "AV. TIRADENTES, 265",
+            "bairro": "SETOR INDUSTRIAL TANCREDO NEVES",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "TENENTE MELO - ESCOLA MUNICIPAL - CACHOEIRA",
+            "endereco": "BR 364 KM 70 - CACHOEIRA S/N",
+            "bairro": "SÃO LOURENÇO - CACHOEIRA",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 4",
+            "municipio": "VILHENA",
+            "local": "IFRO - INSTITUTO FEDERAL DE RONDÔNIA",
+            "endereco": "BR-174, KM 03, SN",
+            "bairro": "residencial santo dumont II",
+            "codigo": "1449"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "GOMES CARNEIRO - ESCOLA ESTADUAL",
+            "endereco": "AV. CHIANCA, 722",
+            "bairro": "CENTRO",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "ANGELINA DOS ANJOS - ESCOLA ESTADUAL",
+            "endereco": "AV. SANTA CRUZ, 1451 - FONE 651-2662",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "GENERAL SAMPAIO - ESCOLA ESTADUAL",
+            "endereco": "AV. GUAJARA MIRIM, S/N",
+            "bairro": "DISTRITO FORTE PRINCIPE DA BEIRA",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "DARCY DA SILVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA 1 DE MAIO, SN, BR 429 KM 58",
+            "bairro": "DISTRITO SAO DOMINGOS DO GUAPORE",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "ILTON JOSE MARTINS - ESCOLA MUNICIPAL",
+            "endereco": "BR 429 KM 58",
+            "bairro": "DISTRITO SAO DOMINGOS DO GUAPORE",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "RAIMUNDO OLIVEIRA DE MESQUITA - ESCOLA ESTADUAL",
+            "endereco": "AV. PROJETADA, S/N - QUADRA 37 - FONE 651-2644",
+            "bairro": "SETOR 04",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 5",
+            "municipio": "COSTA MARQUES",
+            "local": "POLO - MARIA LUCINETE FIRMINO MIRANDA - ESCOLA MUNICIPAL",
+            "endereco": "BR 429, KM 15",
+            "bairro": "zona RURAL",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "CAMPOS SALES - ESCOLA ESTADUAL",
+            "endereco": "RUA HUMB. A. C. BRANCO, 3961 - FONE 621-2082",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "SENADOR RONALDO ARAGAO - ESCOLA MUNICIPAL",
+            "endereco": "RUA DAS COMUNICACOES, S/N",
+            "bairro": "CENTRO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "REGINA ALMEIDA DE ARAUJO",
+            "endereco": "RUA TIRADENTES S/N",
+            "bairro": "CIDADE ALTA",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "EUCLIDES CUNHA - ESCOLA MUNICIPAL",
+            "endereco": "DIST. PEDRAS NEGRAS - RIO GUAPORE, 600 KM DA SEDE",
+            "bairro": "DISTRITO PEDRAS NEGRAS",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "POLO - PEREIRA E CACERES - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA PORTO MURTINHO, KM 15, LINHA 8, 30 KM DA SEDE",
+            "bairro": "DISTRITO PORTO MURTINHO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "ESCOLA INDÍGENA ESTADUAL DE ENSINO FUNDAMENTAL IRIA DOS REIS FREITAS",
+            "endereco": "DIST. PORTO MURTINHO - RIO S. MIGUEL, 45 KM DA SEDE",
+            "bairro": "DISTRITO PORTO MURTINHO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "MARCILENE DE CARVALHO - ESCOLA ESTADUAL",
+            "endereco": "RUA MACAPA, S/N",
+            "bairro": "SETOR 08",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "NEUZA DE OLIVEIRA BRAVIN - ESCOLA MUNICIPAL",
+            "endereco": "BR 429 KM 92 LINHA 33",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 5",
+            "municipio": "SÃO FRANCISCO DO GUAPORÉ",
+            "local": "POLO - JOÃO MELO ZEFERINO - ESCOLA MUNICIPAL",
+            "endereco": "BR 429, KM 75, HA 35 KM DA SEDE",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "4 DE AGOSTO - ESCOLA MUNICIPAL",
+            "endereco": "ALDEIA CENTRAL - T.I. KARITIANA",
+            "bairro": "ALDEIA KARITIANA",
+            "codigo": "1767"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "GETÚLIO VARGAS - ESCOLA ESTADUAL",
+            "endereco": "RUA RAIMUNDO CANTÚARIA, SN",
+            "bairro": "AREAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "PADRE CHIQUINHO - ESCOLA MUNICIPAL",
+            "endereco": "AV CAMPOS SALES, 881",
+            "bairro": "AREAL",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "CAPITAO CLAUDIO MANOEL DA COSTA - ESCOLA ESTADUAL",
+            "endereco": "RUA JOAO ELIAS DE SOUZA, 4862",
+            "bairro": "CIDADE DO LOBO",
+            "codigo": "1406"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MANOEL APARÍCIO NUNES ALMEIDA - ESCOLA MUNICIPAL",
+            "endereco": "RUA HUMBERTO FLORÊNCIO, 5473",
+            "bairro": "CIDADE NOVA",
+            "codigo": "1449"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "COMUNIDADE MARCO AZUL",
+            "endereco": "RODOVIA LINHA C-85, TRAVESSÃO B-0, KM 60",
+            "bairro": "COMUNIDADE MARCO AZUL",
+            "codigo": "1600"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "BELA VISTA - ESCOLA ESTADUAL",
+            "endereco": "RUA GOVERNADOR VALADARES, 3.601",
+            "bairro": "CONCEIÇÃO",
+            "codigo": "1384"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MARECHAL CANDIDO RONDON - ESCOLA ESTADUAL",
+            "endereco": "RUA TIRADENTES, S/N, FONE (69) 3236-1162",
+            "bairro": "DISTRITO ABUNA",
+            "codigo": "1708"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "JAYME PEIXOTO DE ALENCAR - ESCOLA MUNICIPAL",
+            "endereco": "RUA PRINCIPAL, 540 - FONE (69) 3252-1495",
+            "bairro": "DISTRITO EXTREMA DE RONDONIA",
+            "codigo": "1775"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "13 DE MAIO- ESCOLA ESTADUAL",
+            "endereco": "RUA CAMPO GRANDE, 582, TELEACRE, FONE (069) 3252-1161 / 3252-1409",
+            "bairro": "DISTRITO EXTREMA DE RONDONIA",
+            "codigo": "1716"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "BARAO DO RIO BRANCO - ESCOLA ESTADUAL",
+            "endereco": "RUA BEIRA MAR S/N",
+            "bairro": "DISTRITO FORTALEZA DO ABUNA",
+            "codigo": "1759"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "CORA CORALINA - ESCOLA MUNICIPAL",
+            "endereco": "RUA HILARIO MAIA, S/N, FONE (069) 3236-6415 (69) 3236-6456 (PÚBLICO)",
+            "bairro": "DISTRITO JACY PARANA",
+            "codigo": "1538"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MARIA NAZARE DOS SANTOS - ESCOLA ESTADUAL",
+            "endereco": "RUA PEDRO OSORIO, 181, FONE (69) 3236-6731 / 3236-6457",
+            "bairro": "DISTRITO JACY PARANA",
+            "codigo": "1546"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "EMEIEF JOAQUIM VICENTE RONDON",
+            "endereco": "RUA GENEROSO PONCE, N. 150 - VELHA JACY",
+            "bairro": "DISTRITO JACY PARANA",
+            "codigo": "1740"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MARIA JACIRA FEITOSA DE CARVALHO - ESCOLA MUNICIPAL",
+            "endereco": "RUA CAFELANDIA, S/N - FONE PUB. (69) 3253-1032",
+            "bairro": "DISTRITO NOVA CALIFORNIA",
+            "codigo": "1597"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "NOSSA SENHORA DE NAZARE - ESCOLA MUNICIPAL",
+            "endereco": "RUA PRAINHA, S/N",
+            "bairro": "DISTRITO NOVA MUTUM PARANA",
+            "codigo": "1619"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "RIO PARDO - ESCOLA MUNICIPAL",
+            "endereco": "VILA RIO PARDO",
+            "bairro": "DISTRITO RIO PARDO",
+            "codigo": "1554"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MORADORES DA LINHA 8 - ASSOCIAÇÃO",
+            "endereco": "LINHA 8 ESQ. C/ LINHÃO",
+            "bairro": "DISTRITO UNIAO BANDEIRANTE",
+            "codigo": "1694"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MORADORES DA LINHA 01 - ASSOCIAÇÃO",
+            "endereco": "LINHA 01 ESQ C/ LINHÃO",
+            "bairro": "DISTRITO UNIAO BANDEIRANTE",
+            "codigo": "1570"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "03 DE DEZEMBRO - ESCOLA MUNICIPAL",
+            "endereco": "DIST. UNIAO BANDEIRANTE",
+            "bairro": "DISTRITO UNIAO BANDEIRANTE",
+            "codigo": "1678"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "CÉSAR FREITAS CASSOL -ESCOLA ESTADUAL",
+            "endereco": "AV DOS IMIGRANTES, S/N",
+            "bairro": "DISTRITO UNIAO BANDEIRANTE",
+            "codigo": "1589"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "PROFESSORA ANTONIA VIEIRA FROTA - ESCOLA ESTADUAL",
+            "endereco": "RUA ANTONIO OLIMPIO LIMA, 3238 - FONE (69) 3251-1436 FAX 3251-1046",
+            "bairro": "DISTRITO VISTA ALEGRE DO ABUNA",
+            "codigo": "1651"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "EMEIF MARIA CASAROTO ABATI",
+            "endereco": "RUA ANTÔNIO OLÍMPIO DE LIMA, 3238",
+            "bairro": "DISTRITO VISTA ALEGRE DO ABUNA",
+            "codigo": "1562"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "COLEGIO CLASSE A UNIDADE II - PARTICULAR",
+            "endereco": "RUA TUTOIA, 3.340",
+            "bairro": "ELETRONORTE",
+            "codigo": "1422"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "SAUL BENNESBY - ESCOLA MUNICIPAL",
+            "endereco": "RUA ALGODOEIRO, 3130",
+            "bairro": "ELETRONORTE",
+            "codigo": "1414"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "RIO BRANCO - ESCOLA ESTADUAL",
+            "endereco": "RUA RAFAEL VAZ E SILVA, 1250",
+            "bairro": "NOSSA SENHORA DAS GRACAS",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "NOSSA SENHORA DAS GRACAS - ESCOLA ESTADUAL",
+            "endereco": "RUA JACY PARANA, 1881",
+            "bairro": "NOSSA SENHORA DAS GRACAS",
+            "codigo": "1392"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "FLOR DE LARANJEIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA BURITIS, 4316",
+            "bairro": "NOVA FLORESTA",
+            "codigo": "1732"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "EDUARDO LIMA E SILVA - ESCOLA ESTADUAL",
+            "endereco": "RUA DANIEL NERI, 1089",
+            "bairro": "NOVA FLORESTA",
+            "codigo": "1686"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "FLOR DO CUPUAÇÚ - ESCOLA MUNICIPAL",
+            "endereco": "BR 364 - KM 54",
+            "bairro": "REASSENTAMENTO SANTA RITA",
+            "codigo": "1660"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "COLEGIO MILITAR TIRADENTES VII",
+            "endereco": "RUA SALGADO FILHO, 404",
+            "bairro": "ROQUE",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "COLEGIO DOM BOSCO - PARTICULAR",
+            "endereco": "RUA ALMIRANTE BARROSO, 986",
+            "bairro": "SANTA BARBARA",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "FRANKLIN DELANO ROOSEVELT - ESCOLA ESTADUAL",
+            "endereco": "RUA RIO MACHADO, 888",
+            "bairro": "TRIANGULO",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "CANTEIRO DE OBRAS - JIRAU",
+            "endereco": "BR 364 KM 110",
+            "bairro": "UHE JIRAU",
+            "codigo": "1724"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "ANTONIO AUGUSTO VASCONCELOS - ESCOLA MUNICIPAL",
+            "endereco": "VILA CACHOEIRA TEOTONIO",
+            "bairro": "VILA CACHOEIRA DE TEOTONIO",
+            "codigo": "1635"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "SANTA JÚLIA - ESCOLA MUNICIPAL",
+            "endereco": "BR 425 - KM 16",
+            "bairro": "VILA PENHA - TAQUARA",
+            "codigo": "1643"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "JOÃO AFRO VIEIRA - ESCOLA MUNICIPAL",
+            "endereco": "BR 364 - SENTIDO ACRE - KM 11 - RUA FRANCISCO FONTINELE",
+            "bairro": "VILA PRINCESA",
+            "codigo": "1457"
+        },
+        {
+            "zona": " 6",
+            "municipio": "PORTO VELHO",
+            "local": "MANOEL PEDRO PEREIRA - ESCOLA MUNICIPAL",
+            "endereco": "BR 364 - KM 24 - SENTIDO ACRE",
+            "bairro": "zona RURAL",
+            "codigo": "1627"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "ALBINA MARCIO SORDI - ESCOLA ESTADUAL",
+            "endereco": "RUA VILHENA, 2360",
+            "bairro": "BNH",
+            "codigo": "1511"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "PAULINA MAFINI - ESCOLA MUNICIPAL - DISTR JOELÂNDIA",
+            "endereco": "BR-364, TRAV. B-40 SUL, LINHA C-40, DISTRITO DE JOELÂNDIA",
+            "bairro": "DISTRITO DE JOELÂNDIA",
+            "codigo": "1473"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "PADRE ANGELO SPADARI - ESCOLA MUNICIPAL - GARIMPO BOM FUTURO",
+            "endereco": "RUA TOPÁZIO, N. 4268,",
+            "bairro": "DISTRITO DO GARIMPO DE BOM FUTURO",
+            "codigo": "1562"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "MAGDALENA TAGLIAFERRO - ESCOLA MUNICIPAL",
+            "endereco": "RUA UMUARAMA, S/N",
+            "bairro": "JARDIM DAS PALMEIRAS",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "JARDIM DAS PEDRAS - ESCOLA ESTADUAL",
+            "endereco": "RUA MOEMA, 3208",
+            "bairro": "JARDIM JORGE TEIXEIRA",
+            "codigo": "1520"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "ALDEMIR DE LIMA CATANHEDE - ESCOLA MUNICIPAL",
+            "endereco": "RUA ARTHUR MANGABEIRA, 2520",
+            "bairro": "MARECHAL RONDON",
+            "codigo": "1546"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "PROFESSOR PEDRO LOUBACK - ESCOLA MUNICIPAL",
+            "endereco": "RUA DOM PEDRO II, 872",
+            "bairro": "MONTE CRISTO",
+            "codigo": "1465"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "LEVI ALVES DE FREITAS - ESCOLA MUNICIPAL",
+            "endereco": "AV. DIAMANTES, 1224",
+            "bairro": "PARQUE DAS GEMAS",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "ESCOLA PROFESSORA CARMEM IONE ARAÚJO",
+            "endereco": "RUA ALDEBARÃ, S/N,",
+            "bairro": "ROTA DO SOL",
+            "codigo": "1414"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "MIGRANTES - ESCOLA ESTADUAL",
+            "endereco": "TRAVESSA BREU, 2714",
+            "bairro": "SETOR 01",
+            "codigo": "1481"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "EVA DOS SANTOS DE OLIVEIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA ACÁCIA, 1571",
+            "bairro": "SETOR 01",
+            "codigo": "1490"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "PINGO DE GENTE - ESCOLA MUNICIPAL",
+            "endereco": "RUA CARDEAL, 1778",
+            "bairro": "SETOR 02",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "ANISIO TEIXEIRA - ESCOLA ESTADUAL",
+            "endereco": "6A RUA, S/N",
+            "bairro": "SETOR 02",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "CHAPEUZINHO VERMELHO - ESCOLA MUNICIPAL",
+            "endereco": "8A RUA, 2429",
+            "bairro": "SETOR 03",
+            "codigo": "1503"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "RICARDO CANTANHEDE - ESCOLA ESTADUAL",
+            "endereco": "RUA SALVADOR, 2463",
+            "bairro": "SETOR 03",
+            "codigo": "1457"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "MARIO QUINTANA - ESCOLA MUNICIPAL",
+            "endereco": "2A RUA, 2710",
+            "bairro": "SETOR 04",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "CORA CORALINA - ESCOLA ESTADUAL",
+            "endereco": "AV. GUAPORE, 3580",
+            "bairro": "SETOR 05",
+            "codigo": "1538"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "DIRCEU DE ALMEIDA - ESCOLA MUNICIPAL",
+            "endereco": "RUA MONTEIRO LOBATO,3348",
+            "bairro": "SETOR 06",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "COLÉGIO TIRADENTES DA POLÍCIA MILITAR III",
+            "endereco": "RUA PARANAVAI, 4678",
+            "bairro": "SETOR 09",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "ROBERTO TURBAY - ESCOLA MUNICIPAL",
+            "endereco": "RUA MÉXICO, N 932",
+            "bairro": "SETOR 10",
+            "codigo": "1392"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "PROFESSOR VENANCIOKOTTWITZ - ESCOLA MUNICIPAL",
+            "endereco": "RUA ALBINA SORDI, SN",
+            "bairro": "SETOR 11",
+            "codigo": "1384"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "CEEJA - CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E DULTOS",
+            "endereco": "RUA AQUARIQUARA,",
+            "bairro": "SETOR INSTITUCIONAL",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "HEITOR VILLA LOBOS - ESCOLA ESTADUAL",
+            "endereco": "AV. JK, 1903",
+            "bairro": "SETOR INSTITUCIONAL",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "COLÉGIO AGAPE - PARTICULAR",
+            "endereco": "AVENIDA JUCELINO KUBTSCHECK",
+            "bairro": "SETOR INSTITUCIONAL",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "MAFALDA RODRIGUES - ESCOLA MUNICIPAL",
+            "endereco": "BR-364, KM-460, LOTE 12, GLEBA 02,",
+            "bairro": "zona RURAL (BR-364)",
+            "codigo": "1449"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "JORGE LUIZ MOULAZ - ESCOLA MUNICIPAL",
+            "endereco": "BR-364, KM-491, LT-14, GL-35, CAJAZEIRA",
+            "bairro": "zona RURAL (BR-364)",
+            "codigo": "1554"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "VINICIUS DE MORAIS - ESCOLA MUNICIPAL",
+            "endereco": "BR-421, TRAV. B-40, LINHA C-65, LT-02, GL-47",
+            "bairro": "zona RURAL (BR-421)",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 7",
+            "municipio": "ARIQUEMES",
+            "local": "ARCO IRIS - ESCOLA MUNICIPAL",
+            "endereco": "RO 257, KM 42, ASSENTAMENTO MIGRANTES",
+            "bairro": "zona RURAL (RO-257)",
+            "codigo": "1422"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CABIXI",
+            "local": "CHICO SOLDADO - ESCOLA MUNICIPAL DE EDUCAÇÃO INFANTIL",
+            "endereco": "AVENIDA TAPAJÓS, 4635",
+            "bairro": "CENTRO",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CABIXI",
+            "local": "JOSÉ DE ANCHIETA - COLEGIO",
+            "endereco": "AV. GUARANI, 4125",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CABIXI",
+            "local": "CENTRO DE ENSINO SUPLETIVO",
+            "endereco": "AV. TAPAJÓS, 3659",
+            "bairro": "CENTRO",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CABIXI",
+            "local": "CHICO MENDES - COLEGIO",
+            "endereco": "LINHA 9 ESQUINA SEGUNDA EIXO - ESTRELA DO OESTE",
+            "bairro": "ESTRELA DO OESTE",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CABIXI",
+            "local": "PLANALTO - COLEGIO PLANALTO",
+            "endereco": "RUA PLANALTO SAO LUIZ, S/N",
+            "bairro": "PLANALTO SAO LUIZ",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "ÁGUA VIVA - ESCOLA MUNICIPAL - ZÉ BENTÃO",
+            "endereco": "LINHA MC 01 - LOTE 10",
+            "bairro": "ASSENTAMENTO ZÉ BENTÃO",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "ANA PAULA MARQUES - ESCOLA MUNICIPAL - DISTRITO DE BOA ESPERANÇA",
+            "endereco": "RUA TANCREDO NEVES, S/N",
+            "bairro": "BOA ESPERANCA",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "ESCOLA ESTADUAL - MOACYR CARAMELLO",
+            "endereco": "RUA SENADOR RONALDO ARAGÃO, S/N",
+            "bairro": "CENTRO",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "ESCOLA IRMÃS JULIANE E ALINE DOS SANTOS MARCOS - ESCOLA MUNICIPAL",
+            "endereco": "RUA JULIO MONTALVAO, 1386",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "SANTA LUZIA - ESCOLA MUNICIPAL - DISTRITO DE CORGÃO",
+            "endereco": "RIO DO OURO - CORGAO S/N",
+            "bairro": "CORGÃO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "ESCOLA GUAPORÉ - VALTER JOSÉ ZANELLA - DISTRITO DE GUAPORÉ",
+            "endereco": "BR 364 KM 108 S/N",
+            "bairro": "GUAPORÉ",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "SANTO ANTÔNIO - ESCOLA MUNCIPAL - PORTO RICO",
+            "endereco": "CAPA 46 - LINHA 85 - SETOR PORTO RICO",
+            "bairro": "NOVA ANDRADINA",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 8",
+            "municipio": "CHUPINGUAIA",
+            "local": "ESCOLA NOVO PLANO - CLEBERSON DIAS - ESCOLA MUNICIPAL",
+            "endereco": "DISTRITO DE NOVO PLANO, LINHA 105, CAPA 48, GLEBA CORUMBIARA",
+            "bairro": "NOVO PLANO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "CENTRO DE ENSINO SUPLETIVO",
+            "endereco": "RUA TIRADENTES, 4120",
+            "bairro": "CENTRO",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "PAULO DE ASSIS RIBEIRO - COLEGIO",
+            "endereco": "AV. PAULO DE ASSIS RIBEIRO, 3443",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "ANGELO ANGELIN - COLEGIO",
+            "endereco": "RUA CAMBARA, 5151",
+            "bairro": "CENTRO",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "MANOEL BANDEIRA - COLEGIO",
+            "endereco": "RUA MATO GROSSO, 4298",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "DEZESSEIS DE JUNHO - COLEGIO",
+            "endereco": "AV. RIO MADEIRA, 4870",
+            "bairro": "CENTRO",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "GETULIO VARGAS - ESCOLA",
+            "endereco": "LINHA 6, SEGUNDO EIXO - NOVO COLORADO",
+            "bairro": "NOVO COLORADO",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "CADEIA PÚBLICA DE COLORADO DO OESTE",
+            "endereco": "AVENIDA GUAPORÉ, N 3465",
+            "bairro": "SANTA LUZIA",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "JULIETA VILELA VELOSO - COLEGIO",
+            "endereco": "RUA BARTOLOMEU BUENO, 4665",
+            "bairro": "SANTA LUZIA",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "MARCOS DONADON - ESCOLA",
+            "endereco": "RUA CEARÁ",
+            "bairro": "SÃO JOSÉ",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "CLAIR DA SILVA WEYH - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 4, PRIMEIRO EIXO, KM 12",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "PLANALTO - ESCOLA PLANALTO",
+            "endereco": "LINHA 02, ESQUINA 2 EIXO, KM 25",
+            "bairro": "zona RURAL",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 8",
+            "municipio": "COLORADO DO OESTE",
+            "local": "GILBERTO AMADO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 4, KM 25 RUMO COLORADO, ZERO EIXO",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "ANISIO SERRAO DE CARVALHO - ESCOLA ESTADUAL",
+            "endereco": "AV COSTA E SILVA, 321",
+            "bairro": "ALVORADA",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "BOM SUCESSO - ESCOLA ESTADUAL",
+            "endereco": "ESTRADA DO AEROPORTO, 337",
+            "bairro": "BELA VISTA",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "PROFª LAIRCE SANTIAGO MAINA - ESCOLA MUNICIPAL",
+            "endereco": "AV. RIACHUELO, 835",
+            "bairro": "BNH",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "MARECHAL CORDEIRO DE FARIAS - ESCOLA ESTADUAL",
+            "endereco": "RUA 21 DE ABRIL, 1850",
+            "bairro": "BNH",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "FAP - FACULDADE DE PIMENTA BUENO",
+            "endereco": "AV CASTELO BRANCO, 930",
+            "bairro": "DOS PIONEIROS",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "CASA DE DETENÇÃO DE PIMENTA BUENO",
+            "endereco": "AVENIDA PRESIDENTE DUTRA S/N",
+            "bairro": "DOS PIONEIROS",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "SANDOVAL MEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA FERNAO DIAS, 275",
+            "bairro": "DOS PIONEIROS",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "MARIA JOSÉ ESCOBAR - ESCOLA MUNICIPAL",
+            "endereco": "AV. BELÉM 1205",
+            "bairro": "ENCONTRO DAS AGUAS",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "ASSUNTA MARIA GIANINI FAVALEÇA - ESCOLA MUNICIPAL",
+            "endereco": "RUA L, QUADRA 36, LOTE 6",
+            "bairro": "ITAPORANGA",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "MARIA CONCEIÇÃO CRIVELLI - ESCOLA MUNICIPAL",
+            "endereco": "RUA PRINCESA ISABEL, 355",
+            "bairro": "JARDIM DAS OLIVEIRAS",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "RAIMUNDO EUCLIDES BARBOSA - ESCOLA ESTADUAL",
+            "endereco": "AV DOS BANDEIRANTES, 1152",
+            "bairro": "JARDIM DAS OLIVEIRAS",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "CENTRO DE EDUCAÇAO MARIA CLARA - CRECHE",
+            "endereco": "AV. PIMENTA BUENO, 88",
+            "bairro": "JARDIM DAS OLIVEIRAS",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "ORLANDO BUENO - ESCOLA ESTADUAL",
+            "endereco": "RUA PARÁ, N. 1202",
+            "bairro": "NOVA PIMENTA",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "UNIAO DO CALCARIO - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA DO CÁLCARIO, 70 KM",
+            "bairro": "SETOR CALCARIO",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "VALDIR MONFREDINHO - ESCOLA MUNICIPAL",
+            "endereco": "AV. DOS IMIGRANTES, 1485",
+            "bairro": "TRIANGULO VERDE",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "URUCUMACUA - ESCOLA MUNICIPAL",
+            "endereco": "RUA DOS ESPORTES, S/N",
+            "bairro": "URUCUMACUÃ",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "NAIR BARROS - ESCOLA MUNICIPAL",
+            "endereco": "AV. PADRE FEIJO, 1522",
+            "bairro": "VILA NOVA",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "AGUIA DOURADA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 108 - SETOR CALCÁRIO",
+            "bairro": "zona RURAL",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "DOMINICAL VITÓRIA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 76, SETOR BARÃO DE MELGAÇO",
+            "bairro": "zona RURAL",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "EMANUEL OSVALDO MOREIRA - ESCOLA ESTADUAL",
+            "endereco": "RO - 010 , KM 30 SETOR ABAITARA",
+            "bairro": "zona RURAL",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "MARCOS FREIRE - ASSOCIAÇÃO",
+            "endereco": "ESTRADA DA PRODUÇÃO",
+            "bairro": "zona RURAL",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "LUIS CABRAL - ESCOLA POLO ESTADUAL",
+            "endereco": "BR 364 KM 50 SENT VILHENA SETOR DIMBA",
+            "bairro": "zona RURAL",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PIMENTA BUENO",
+            "local": "PROFESSORA DIVA TERESA FERREIRA - ESCOLA MUNICIPAL",
+            "endereco": "SETOR ROOSEVELT - ASSENTAMENTO CANAA",
+            "bairro": "zona RURAL",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PRIMAVERA DE RONDÔNIA",
+            "local": "JOSE ANTONIO RODRIGUES - ESCOLA MUNICIPAL",
+            "endereco": "AV. JORGE TEIXEIRA S/N",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PRIMAVERA DE RONDÔNIA",
+            "local": "JOSE SEVERINO DOS SANTOS - ESCOLA ESTADUAL",
+            "endereco": "PRIMAVERA DE RONDONIA S/N",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 9",
+            "municipio": "PRIMAVERA DE RONDÔNIA",
+            "local": "ESTACIO DE SA - ESCOLA ESTADUAL",
+            "endereco": "AV. TANCREDO NEVES, DISTRITO QUERENCIA DO NORTE",
+            "bairro": "QUERENCIA DO NORTE",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "TANCREDO NEVES - ESCOLA MUNICIPAL - ALDEIA LA PETANHA",
+            "endereco": "LINHA 11 ALDEIA INDÍGENA LA PETANHA",
+            "bairro": "ALDEIA LA PETANHA",
+            "codigo": "1473"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "IZIDORO DE SOUZA MEIRELLES - ESCOLA MUNICIPAL - ALDEIA PIN PAITER",
+            "endereco": "LINHA 09, ALDEIA PIN PAITER E ALDEIA ATAMUIA",
+            "bairro": "ALDEIA PIN PAITER",
+            "codigo": "1457"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "FANORTE - INSTITUIÇÃO DE ENSINO SUPERIOR DE CACOAL",
+            "endereco": "RUA ANÍSIO SERRÃO, 2325",
+            "bairro": "CENTRO",
+            "codigo": "1635"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "CORA CORALINA - ESCOLA ESTADUAL",
+            "endereco": "RUA JOSÉ DO PATROCÍNIO, 2159",
+            "bairro": "CENTRO",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "COOPEC - COOPERATIVA EDUCACIONAL DE CACOAL",
+            "endereco": "AVENIDA SAO PAULO, 2666",
+            "bairro": "CENTRO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "FUNDAÇÃO BRADESCO - PARTICULAR",
+            "endereco": "TRAVESSA OURO, 160",
+            "bairro": "CRISTAL DO ARCO IRIS",
+            "codigo": "1546"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "NOSSA SENHORA DO CARMO - ESCOLA MUNICIPAL",
+            "endereco": "AV JUSCELINO KUBITSCHEK, 5313 - RIOZINHO",
+            "bairro": "DISTRITO RIOZINHO",
+            "codigo": "1589"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "JOSINO BRITO - ESCOLA ESTADUAL",
+            "endereco": "RUA UIRAPURU, 2560",
+            "bairro": "FLORESTA",
+            "codigo": "1449"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "MARIA SOCORRO VIANA DE ALMEIDA - ESCOLA MUNICIPAL",
+            "endereco": "RUA PROFESSORA ALZIRA CELLERI BARBOSA, 1501",
+            "bairro": "HABITAR BRASIL 1 (MUTIRAO)",
+            "codigo": "1562"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "UNESC UNIÃO DAS ESCOLAS SUPERIORES DE CACOAL - FACULDADE",
+            "endereco": "RUA DOS ESPORTES, 1838",
+            "bairro": "INCRA",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "CLODOALDO NUNES DE ALMEIDA - ESCOLA ESTADUAL",
+            "endereco": "AV PRESIDENTE MÉDICI, 160",
+            "bairro": "JARDIM CLODOALDO NUNES DE ALMEIDA",
+            "codigo": "1481"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "DANIEL BERG - ESCOLA PARTICULAR",
+            "endereco": "AVENIDA SÃO PAULO, N. 3070",
+            "bairro": "JARDIM CLODOALDO NUNES DE ALMEIDA",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "MARIA AURORA DO NASCIMENTO - ESCOLA ESTADUAL",
+            "endereco": "TRAVESSA ANCHIETA, 1145",
+            "bairro": "LIBERDADE",
+            "codigo": "1619"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "HONORINA LUCAS DE BRITO - ESCOLA ESTADUAL",
+            "endereco": "RUA PADRE MANOEL DA NÓBREGA, 535",
+            "bairro": "NOVA ESPERANÇA",
+            "codigo": "1520"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "ESCOLA CARLOS GOMES - ESTADUAL",
+            "endereco": "AV. RECIFE,335",
+            "bairro": "NOVO CACOAL",
+            "codigo": "1597"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "BERNARDO GUIMARÃES - ESCOLA ESTADUAL",
+            "endereco": "RUA ANTONIO DE PAULA NUNES, 737",
+            "bairro": "PRINCESA ISABEL",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "GRACILIANO RAMOS - ESCOLA ESTADUAL",
+            "endereco": "RUA PROFESSORA MARIA LUCIA DA SILVA MILLER, 2640",
+            "bairro": "RESIDENCIAL PARQUE BRIZON",
+            "codigo": "1503"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "UNOPAR CACOAL-UNIVERSIDADE",
+            "endereco": "AV. CASTELO BRANCO 16999",
+            "bairro": "SANTO ANTONIO",
+            "codigo": "1511"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "JOSE MAURO DE VASCONCELOS - ESCOLA MUNICIPAL",
+            "endereco": "LINHA E LOTE 95 GLEBA 04",
+            "bairro": "SETOR PROSPERIDADE",
+            "codigo": "1600"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "PAULO FREIRE - ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL",
+            "endereco": "RUA MARIA AURORA DO NASCIMENTO, 1373",
+            "bairro": "TEIXEIRAO",
+            "codigo": "1490"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "AURÉLIO BUARQUE DE HOLANDA FERREIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA QUINZE DE NOVEMBRO, 3427",
+            "bairro": "TEIXEIRAO",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "FREI CANECA - ESCOLA ESTADUAL",
+            "endereco": "RUA HEITOR OZIAS SCHUINET, 3844",
+            "bairro": "VILAGE DO SOL I",
+            "codigo": "1414"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "ESCOLA AGUSTINHO GOES DE OLIVEIRA- MUNICIPAL",
+            "endereco": "AV.PRIMAVERA,2293.",
+            "bairro": "VISTA ALEGRE",
+            "codigo": "1627"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "CARLOS DRUMMOND DE ANDRADE - ESCOLA ESTADUAL",
+            "endereco": "RUA BASÍLIO DA GAMA, 1772",
+            "bairro": "VISTA ALEGRE",
+            "codigo": "1554"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "NOSSA SENHORA DAS GRACAS - COMUNIDADE - LINHA 12",
+            "endereco": "LINHA 12, KM 06, GLEBA 12, LOTE 11",
+            "bairro": "zona RURAL 11",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "CRUZEIRO DO NORTE - ESCOLA MUNICIPAL - LINHA 21",
+            "endereco": "LINHA 21, GLEBA 13, LOTE 48",
+            "bairro": "zona RURAL 11",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "MONTEIRO LOBATO - ESCOLA MUNICIPAL - LINHA 11",
+            "endereco": "LINHA 11, KM 45, GLEBA 11, LOTE 25",
+            "bairro": "zona RURAL 11",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SANTOS DUMONT - ESCOLA MUNICIPAL - LINHA 07",
+            "endereco": "LINHA 07, GLEBA 06, LOTE 56",
+            "bairro": "zona RURAL 11",
+            "codigo": "1392"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "PEDRO ÁLVARES CABRAL - ESCOLA MUNICIPAL - LINHA 09",
+            "endereco": "LINHA 09, GLEBA 09, LOTE 52",
+            "bairro": "zona RURAL 11",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SANTO ANTONIO - COMUNIDADE - LINHA 09",
+            "endereco": "LINHA 09, KM 14, GLEBA 09, LOTE 27",
+            "bairro": "zona RURAL 11",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "NOSSA SENHORA APARECIDA - COMUNIDADE - LINHA 14",
+            "endereco": "LINHA 14, LOTE 24",
+            "bairro": "zona RURAL 11",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "PRESIDENTE MEDICE - ESCOLA MUNICIPAL - LINHA 10",
+            "endereco": "LINHA 10, KM 8, GLEBA 10, LOTE 17",
+            "bairro": "zona RURAL 11",
+            "codigo": "1422"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SANTA RITA DE CÁSSIA - COMUNIDADE - LINHA 15A",
+            "endereco": "LINHA 15A, KM 70",
+            "bairro": "zona RURAL 11",
+            "codigo": "1384"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SANTO ANTONIO - COMUNIDADE - LINHA 08",
+            "endereco": "LINHA 08, KM 26, GLEBA 07, LOTE 03",
+            "bairro": "zona RURAL 11",
+            "codigo": "1406"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "DOUTOR JOÃO DE DEUS SIMPLICIO - ESCOLA MUNICIPAL - LINHA 14",
+            "endereco": "LINHA 14, GLEBA 13, LOTE 33",
+            "bairro": "zona RURAL 11",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SANTA LUZIA - COMUNIDADE - LINHA 13",
+            "endereco": "LINHA 13, GLEBA 13, KM 6,5",
+            "bairro": "zona RURAL 11",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "ANITA GARIBALDI - ESCOLA MUNICIPAL - LINHA 12",
+            "endereco": "LINHA 12, KM 1, GLEBA 72, LOTE 11",
+            "bairro": "zona RURAL 11",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "MARIA MONTESSORI - ESCOLA MUNICIPAL - LINHA 10",
+            "endereco": "LINHA 10, GLEBA 10, LOTE 58",
+            "bairro": "zona RURAL 11",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "NOSSA SENHORA APARECIDA - COMUNIDADE - LINHA 10",
+            "endereco": "LINHA 10, KM 17, GLEBA 10, LOTE 36",
+            "bairro": "zona RURAL 11",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SAO PEDRO - COMUNIDADE - LINHA 12",
+            "endereco": "LINHA 12, KM 25, GLEBA 11, LOTE 34",
+            "bairro": "zona RURAL 11",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "SANTO ANTONIO - COMUNIDADE - LINHA 11",
+            "endereco": "LINHA 11, KM 11, GLEBA 11, LOTE 19",
+            "bairro": "zona RURAL 11",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 11",
+            "municipio": "CACOAL",
+            "local": "CLÁUDIO MANOEL DA COSTA - ESCOLA MUNICIPAL",
+            "endereco": "BR 383, KM 05, LOTE 26",
+            "bairro": "zona RURAL 31",
+            "codigo": "1538"
+        },
+        {
+            "zona": " 11",
+            "municipio": "MINISTRO ANDREAZZA",
+            "local": "CECÍLIA MEIRELES - ESCOLA MUNICIPAL",
+            "endereco": "RUA BAHIA, 5635",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 11",
+            "municipio": "MINISTRO ANDREAZZA",
+            "local": "BALÃO MÁGICO - ESCOLA MUNICIPAL",
+            "endereco": "RUA BAHIA, 5591",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 11",
+            "municipio": "MINISTRO ANDREAZZA",
+            "local": "NILO COELHO - ESCOLA ESTADUAL",
+            "endereco": "RUA JOANA D'ARC, 3329",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 11",
+            "municipio": "MINISTRO ANDREAZZA",
+            "local": "QUINTINO BOCAIÚVA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 02 LOTE 18 GLEBA 02 KM 12",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 11",
+            "municipio": "MINISTRO ANDREAZZA",
+            "local": "AMADO FONTES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 07 LOTE 72 GLEBA 07 KM 18",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 11",
+            "municipio": "MINISTRO ANDREAZZA",
+            "local": "BEATRIZ GOMES SIMÃO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 03 GLEBA 03 LOTE 92-C KM 17",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "MARIA ROSA DE OLIVEIRA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA KAPA 80 KM 52 S/N",
+            "bairro": "14 DE ABRIL",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JOAO BRAVO - ALDEIA INDÍGENA - CINTA LARGA",
+            "endereco": "ALDEIA JOÃO BRAVO",
+            "bairro": "ALDEIA JOÃO BRAVO",
+            "codigo": "1538"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "ROOSEVELT - ALDEIA INDÍGENA - CINTA LARGA",
+            "endereco": "ALDEIA ROOSEVELT",
+            "bairro": "ALDEIA ROOSEVELT",
+            "codigo": "1546"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "TANCREDO DE ALMEIDA NEVES - ESCOLA ESTADUAL",
+            "endereco": "ESTRADA PACARANA KM 86 S/N",
+            "bairro": "BOA VISTA DO PACARANA",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "VINICIUS DE MORAES - ESCOLA ESTADUAL",
+            "endereco": "RUA ESPIRITO SANTO 1927",
+            "bairro": "CAIXA D'AGUA",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "BRAS CUBAS - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA CANELINHA KM 18 DISTRITO CANELINHA - zona RURAL",
+            "bairro": "CANELINHA",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "CADEIA PÚBLICA DE ESPIGÃO DO OESTE",
+            "endereco": "RUA PARANÁ",
+            "bairro": "CENTRO",
+            "codigo": "1554"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "07 DE SETEMBRO - ESCOLA ESTADUAL",
+            "endereco": "RUA SURUI 2780",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "MARIA DI SANCTIS SANTOS - ESCOLA ESTADUAL",
+            "endereco": "RUA ROMIPORA 3571",
+            "bairro": "CIDADE ALTA",
+            "codigo": "1511"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "TEOBALDO FERREIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA PIAUI 4620",
+            "bairro": "JORGE TEIXEIRA DE OLIVEIRA",
+            "codigo": "1414"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "FERNANDA SOUZA DE PAULA - ESCOLA ESTADUAL",
+            "endereco": "RUA SÃO PAULO NÚMERO 3435",
+            "bairro": "LIBERDADE",
+            "codigo": "1481"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JEAN PIAGET - ESCOLA ESTADUAL",
+            "endereco": "RUA ALAGOAS, 2082",
+            "bairro": "MORADA DO SOL",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "MARIA LOURENCO CASSIANO - ESCOLA ESTADUAL",
+            "endereco": "LINHA E KM 14 S/N",
+            "bairro": "NOVA ESPERANCA",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "SIMONE MOURA ROSA - ESCOLA MUNICIPAL",
+            "endereco": "RUA BANDEIRANTES 1011",
+            "bairro": "SAO JOSE",
+            "codigo": "1473"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "AURELIO BUARQUE DE HOLANDA - ESCOLA MUNICIPAL",
+            "endereco": "LOTE 24, GLEBA 5, KM 45 - SERINGAL",
+            "bairro": "SETOR CACHOEIRA",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JERRIS ADRIANE TURATTI - ESCOLA ESTADUAL",
+            "endereco": "RUA GOIAS, S/N",
+            "bairro": "VISTA ALEGRE",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "RIO CLARO - ASSOC - QUADRA",
+            "endereco": "LINHA ZE FERNANDES KM 20 S/N",
+            "bairro": "zona RURAL",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "SAO PEDRO (RIBEIRÃO) - ASSOC - COMU",
+            "endereco": "ESTRADA PONTE BONITA KM 05 S/N (RIBEIRÃO)",
+            "bairro": "zona RURAL",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "SANTA ISABEL - IGREJA",
+            "endereco": "ESTRADA BELA AURORA KM 05 S/N (CALCARIO)",
+            "bairro": "zona RURAL",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JUSCELINO KUBITSCHEK DE OLIVEIRA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 38 KM 04 SETOR PACARANA",
+            "bairro": "zona RURAL",
+            "codigo": "1406"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JK - APROSJUK - ASSOC",
+            "endereco": "LINHA JK KM 70",
+            "bairro": "zona RURAL",
+            "codigo": "1392"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "DILSON BELO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA PA II KM 60, S/N - SEDE",
+            "bairro": "zona RURAL",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "BOM JESUS DA PAZ - IGREJA",
+            "endereco": "LINHA 05 GLEBA 02 SERINGAL TERCEIRA SEDE",
+            "bairro": "zona RURAL",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "PRODUTORES RURAIS - ASPROKAP - ASSOC",
+            "endereco": "ENTRONCAMENTO LINHA 0 KAPA 80, S/N",
+            "bairro": "zona RURAL",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "SAO BENTO - IGREJA - COMU",
+            "endereco": "ESTRADA CUPIM KM 31 (LAMBARI)",
+            "bairro": "zona RURAL",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 12",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "RIO PRETO - ASSOC RURAL - COMUNIDADE",
+            "endereco": "ESTRADA P.A. 1 KM 51",
+            "bairro": "zona RURAL",
+            "codigo": "1503"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "MARGARIDA CUSTÓDIO - ESCOLA ESTADUAL",
+            "endereco": "RUA URUPA, S/N - FONE 3461-4903",
+            "bairro": "ALVORADA",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "CEEJA - PROFESSOR ANTONIO DE ALMEIDA - ESCOLA ESTADUAL",
+            "endereco": "RUA MAYRA, S/N - FONE 3461-2847",
+            "bairro": "ALVORADA",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "MONTEIRO LOBATO - ESCOLA ESTADUAL",
+            "endereco": "RUA OSVALDO CRUZ - 0346",
+            "bairro": "DA LIBERDADE",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "28 DE NOVEMBRO - ESCOLA ESTADUAL",
+            "endereco": "RUA OLAVO BILAC - 0889",
+            "bairro": "DA UNIAO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "CAMARA MUNICIPAL DE OURO PRETO DO OESTE",
+            "endereco": "AVENIDA GONÇALVES DIAS - 4236",
+            "bairro": "DA UNIAO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "PROFESSORA MARIA DE MATOS E SILVA - ESCOLA ESTADUAL",
+            "endereco": "RUA DOS EXTENCIONISTAS - LINHA 204 KM 21",
+            "bairro": "DISTrito RONDOMINAS",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "AURELIO BUARQUE DE HOLANDA - ESCOLA ESTADUAL",
+            "endereco": "RUA MARIO ANDREAZA, 426 - FONE 3461-1154",
+            "bairro": "JARDIM AEROPORTO",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "COLÉGIO BENJAMIM CONSTANT - ESCOLA MUNICIPAL",
+            "endereco": "RUA SIRLEY LEMOS 141",
+            "bairro": "JARDIM AEROPORTO II",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JOAQUIM NABUCO - ESCOLA ESTADUAL",
+            "endereco": "RUA PADRE ADOLFO ROHL, 269",
+            "bairro": "JARDIM BANDEIRANTES",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "CASA DE DETENÇÃO DE OURO PRETO DO OESTE",
+            "endereco": "RUA PADRE ADOLPHO RHOL",
+            "bairro": "JARDIM BANDEIRANTES",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "HORACIO CARELLI - ESCOLA MUNICIPAL CORA CORALINA",
+            "endereco": "RUA JUSCELINO KUBITSCHEK - 1397",
+            "bairro": "JARDIM NOVO ESTADO",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "FERNANDO DE AZEVEDO - ESCOLA MUNICIPAL",
+            "endereco": "RUA DOUTOR JOSE MARINHO DE OLIVEIRA - 086",
+            "bairro": "JARDIM NOVO HORIZONTE",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "JOAQUIM DE LIMA AVELINO - ESCOLA ESTADUAL",
+            "endereco": "RUA JUSCELINO KUBISTCHEK, 125 - FONE 3461-3483",
+            "bairro": "JARDIM TROPICAL",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 13",
+            "municipio": "ESPIGÃO DO OESTE",
+            "local": "TEATRO - PREFEITURA MUNICIPAL",
+            "endereco": "PRAÇA DA LIBERDADE",
+            "bairro": "JARDIM TROPICAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 13",
+            "municipio": "TEIXEIRÓPOLIS",
+            "local": "SEBASTIAO AMORIM DA SILVA - ESCOLA MUNICIPAL",
+            "endereco": "RUA NOVA ESPERANCA COM JASMO DE CASTRO",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 13",
+            "municipio": "TEIXEIRÓPOLIS",
+            "local": "PIONEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA ADILIO FERREIRA, 1074 - FONE 3465 1107",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 15",
+            "municipio": "CASTANHEIRAS",
+            "local": "ESCOLA FRANCISCA JULIA DA SILVA",
+            "endereco": "RUA PINHEIROS, S/N",
+            "bairro": "bairro CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 15",
+            "municipio": "CASTANHEIRAS",
+            "local": "ESCOLA EUGÊNIO LAZARIN",
+            "endereco": "LINHA 172 KM 25 NORTE",
+            "bairro": "DISTRITO JARDINÓPOLIS",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVA BRASILÂNDIA D'OESTE",
+            "local": "ALEXANDRE DE GUSMÃO - ESCOLA ESTADUAL",
+            "endereco": "RUA DAS PALMEIRAS 2.685",
+            "bairro": "SETOR 13",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVA BRASILÂNDIA D'OESTE",
+            "local": "CEEJA - CECILIA MEIRELES - ESCOLA ESTADUAL",
+            "endereco": "RUA FLORIANO PEIXOTO - 3.865",
+            "bairro": "SETOR 14",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVA BRASILÂNDIA D'OESTE",
+            "local": "MACHADO DE ASSIS - ESCOLA MUNICIPAL",
+            "endereco": "RUA RIACHUELO - 3127",
+            "bairro": "SETOR 14",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVA BRASILÂNDIA D'OESTE",
+            "local": "AURELIO BUARQUE DE HOLANDA FERREIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA DAS PALMEIRAS - 4149",
+            "bairro": "SETOR 14",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVA BRASILÂNDIA D'OESTE",
+            "local": "ROCHA POMBO - ESCOLA ESTADUAL",
+            "endereco": "RUA RIACHUELO - 4.282 - ESQUINA COM CASTRO ALVES",
+            "bairro": "SETOR 15",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVA BRASILÂNDIA D'OESTE",
+            "local": "MARIA APARECIDA VILA NOVA PIRES FARIAS - ESCOLA MUNICIPAL",
+            "endereco": "ASSENTAMENTO BELA VISTA",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVO HORIZONTE DO OESTE",
+            "local": "ESCOLA MARECHAL CÂNDIDO RONDON",
+            "endereco": "TRAVESSA DA CULTURA, 4834",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVO HORIZONTE DO OESTE",
+            "local": "ESCOLA AMÉRICO BRASILIENSE",
+            "endereco": "RUA PADRE ANCHIETA, 3219",
+            "bairro": "DISTRITO MIGRANTINÓPOLIS",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 15",
+            "municipio": "NOVO HORIZONTE DO OESTE",
+            "local": "ESCOLA ANGÉLICA DE JESUS",
+            "endereco": "LINHA 25 ESQUINA COM 152",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CREJEIRAS",
+            "local": "FLORIANO PEIXOTO - ESCOLA ESTADUAL",
+            "endereco": "RUA RORAIMA - N 998",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CREJEIRAS",
+            "local": "CADEIA PÚBLICA DE CEREJEIRAS",
+            "endereco": "AVENIDA SÃO PAULO",
+            "bairro": "CENTRO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CREJEIRAS",
+            "local": "CASTRO ALVES - ESCOLA ESTADUAL",
+            "endereco": "AV DAS NACOES - N 1661",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CREJEIRAS",
+            "local": "JERÔNIMO GARCIA DE SANTANA - ESCOLA ESTADUAL",
+            "endereco": "RUA ROBSON FERREIRA - N 2936",
+            "bairro": "JOSÉ DE ANCHIETA",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CREJEIRAS",
+            "local": "TANCREDO DE ALMEIDA NEVES - ESCOLA ESTADUAL",
+            "endereco": "RUA PANAMA - N 2558",
+            "bairro": "LIBERDADE",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CREJEIRAS",
+            "local": "JORGE TEIXEIRA DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA PANAMA - N 950",
+            "bairro": "PRIMAVERA",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CORUMBIARA",
+            "local": "MUNDO MAGICO - ESCOLA MUNICIPAL",
+            "endereco": "AV SENADOR OLAVO PIRES - N 1315",
+            "bairro": "CENTRO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CORUMBIARA",
+            "local": "OSVALDO PIANA - ESCOLA ESTADUAL",
+            "endereco": "AV ANTONIO NOVAIS - N 2516",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CORUMBIARA",
+            "local": "PÉ DA SERRA - ESCOLA MUNICIPAL",
+            "endereco": "AV OLAVO PIRES - N 769",
+            "bairro": "DISTRITO DE ALTO GUARAJUS",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CORUMBIARA",
+            "local": "COLINA VERDE - ESCOLA ESTADUAL",
+            "endereco": "3 EIXO - KM 20",
+            "bairro": "DISTRITO DE RONDOLANDIA",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CORUMBIARA",
+            "local": "HELICONIA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA ZERO 7",
+            "bairro": "DISTRITO DE VERDE SERINGAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 16",
+            "municipio": "CORUMBIARA",
+            "local": "MARECHAL RONDON - ESCOLA ESTADUAL",
+            "endereco": "RUA PEDRO ALVARES CABRAL - N 2225",
+            "bairro": "DISTRITO DE VITORIA DA UNIAO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 16",
+            "municipio": "PIMENTEIRAS DO OESTE",
+            "local": "INACIO DE CASTRO - ESCOLA ESTADUAL",
+            "endereco": "RUA RIO GRANDE DO SUL, 951",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "KON' COATT TUPARI - ESCOLA ESTADUAL - ALDEIA CAJUÍ",
+            "endereco": "TERRA INDIGENA RIO BRANCO",
+            "bairro": "ALDEIA CAJUÍ",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "BOATT GERAINNY - ESCOLA ESTADUAL - ALDEIA SAO LUIZ",
+            "endereco": "TERRA INDÍGENA RIO BRANCO",
+            "bairro": "ALDEIA SÃO LUIZ",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "EMMEF HEBERT JOSE SOUSA",
+            "endereco": "LINHA 144 KM 50",
+            "bairro": "Assentamento do betinho - sem terra",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "EURIDICE LOPES PEDROSO - ESCOLA ESTADUAL",
+            "endereco": "AV. MATO GROSSO, 386",
+            "bairro": "CENTRO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "PADRE EZEQUIEL RAMIM - ESCOLA ESTADUAL",
+            "endereco": "RUA NEREU RAMOS, 4581",
+            "bairro": "CENTRO",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "FLORESTA ENCANTADA - ESCOLA MUNICIPAL",
+            "endereco": "AV. BAHIA, 4598",
+            "bairro": "CIDADE ALTA",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "TANCREDO DE ALMEIDA NEVES - ESCOLA ESTADUAL",
+            "endereco": "AV. ALTA FLORESTA, 2973",
+            "bairro": "PRINCESA IZABEL",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "JUSCELINO KUBTCHECK DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "AV. AMAPA, 4503",
+            "bairro": "SANTA FELICIDADE",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "CADEIA PÚBLICA",
+            "endereco": "AV. AMAPÁ S/N - ANEXO A DELEGACIA DE POLÍCIA CIVIL",
+            "bairro": "SANTA FELICIDADE",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "7 DE SETEMBRO - ESCOLA MUNICIPAL - SUCURI",
+            "endereco": "LINHA 60 C/ 140 KM 33 - SUCURI",
+            "bairro": "zona RURAL",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "MARTIM AFONSO DE SOUZA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 134 KM 30",
+            "bairro": "zona RURAL",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "PADRE FEIJO - ESCOLA MUNICIPAL - FILADÉLFIA",
+            "endereco": "LINHA 105 C/ 152, KM 75, FILADÉLFIA",
+            "bairro": "zona RURAL",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "MARIA DE SOUZA PEGO - ESCOLA MUNICIPAL - GEASA",
+            "endereco": "DIST. DE NOVA GEASA DO OESTE, S/N",
+            "bairro": "zona RURAL",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "IZIDORO STEDILLE - ESCOLA MUNICIPAL",
+            "endereco": "DIST. DE IZIDOLANDIA, S/N",
+            "bairro": "zona RURAL",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "ANA NERY - ESCOLA MUNICIPAL - PORTO ROLIM",
+            "endereco": "ROLIM DE MOURA DO GUAPORE",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "PEDRO ALEIXO - ESCOLA MUNICIPAL - SANTO ANTÔNIO",
+            "endereco": "LINHA 148 C/ 65 KM 40, SANTO ANTÔNIO",
+            "bairro": "zona RURAL",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "BOA ESPERANÇA - ESCOLA MUNICIPAL",
+            "endereco": "VILA MARCÃO",
+            "bairro": "zona RURAL",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "POTY - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 156 COM A 60 KM 16",
+            "bairro": "zona RURAL",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 17",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "JOSE BASILIO DA GAMA - ESCOLA MUNICIPAL - PROENC",
+            "endereco": "LINHA 42,5 C/ 160 KM 16",
+            "bairro": "zona RURAL",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "MONTE ALEGRE - ESCOLA ESTADUAL",
+            "endereco": "AV. CENTRAL, N. 4230 - 69-3412-2764",
+            "bairro": "ALTO ALEGRE",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "BRANCA DE NEVE - PRE-ESCOLA",
+            "endereco": "AV. 07 DE SETEMBRO, N. 5043",
+            "bairro": "CENTRO",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "CASA DE DETENÇÃO DE ALVORADA DO OESTE",
+            "endereco": "AV JK, N 5338",
+            "bairro": "CENTRO",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "SANTA ANA - ESCOLA ESTADUAL",
+            "endereco": "R. ECA DE QUEIROZ, N. 4386 - 69-3412-2842",
+            "bairro": "CENTRO",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "JOAQUIM XAVIER DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA CARLOS CHAGAS, 5158 - 69-3412-2716",
+            "bairro": "CIDADE ALTA",
+            "codigo": "1198"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "MATILDE - PROFESSORA MATILDE DUTRA ROZO - ESCOLA MUNICIPAL",
+            "endereco": "AV. 9 DE JULHO, N. 4425",
+            "bairro": "CTG",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "HUMBERTO DE CAMPOS - ESCOLA ESTADUAL",
+            "endereco": "AV. FERREIRA MARTINS, SN ,CENTRO, DISTRITO DE TANCREDÓPOLIS",
+            "bairro": "TANCREDOPOLIS",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "MONTEIRO LOBATO - ESCOLA MUNICIPAL - DISTR TERRA BOA",
+            "endereco": "BR 429, KM 29, S/N",
+            "bairro": "TERRA BOA",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "NOVO DESTINO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 14-ALVORADA DO OESTE-RO",
+            "bairro": "zona RURAL",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 18",
+            "municipio": "ALTA FLORESTA D'OESTE",
+            "local": "DARCY - SENADOR DARCY RIBEIR0",
+            "endereco": "LINHA 17 SETOR FLORESTAL",
+            "bairro": "zona RURAL",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 18",
+            "municipio": "URUPÁ",
+            "local": "ADEILDO MARTINS - ESCOLA MUNICIPAL - URUPA",
+            "endereco": "RUA GETULIO VARGAS, S.N.",
+            "bairro": "ALTO ALEGRE",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 18",
+            "municipio": "URUPÁ",
+            "local": "NOVA ESTRELA - ESCOLA MUNICIPAL - DISTR NOVA ALIANÇA",
+            "endereco": "LINHA 16-ASSENTAMENTO MARTIM PESCADOR",
+            "bairro": "NOVA ALIANÇA",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 18",
+            "municipio": "URUPÁ",
+            "local": "ALTAMIR BILLYS SOARES - ESCOLA ESTADUAL",
+            "endereco": "RUA CARLOS DE LIMA 1729 - 413-2538",
+            "bairro": "NOVO HORIZONTE",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 18",
+            "municipio": "URUPÁ",
+            "local": "WALDEMAR HIGINO DE SOUZA - ESCOLA MUNICIPAL",
+            "endereco": "RUA SERINGUEIRAS, N 3275",
+            "bairro": "SUMAUMA",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 18",
+            "municipio": "URUPÁ",
+            "local": "OLIVEIRA PAIVA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA TN-10-SETOR PAZ",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 19",
+            "municipio": "ALTO ALEGRE DO PARECIS",
+            "local": "ARTUR COSTA E SILVA - ESCOLA ESTADUAL - 1 E 2 GRAU",
+            "endereco": "RUA TIRADENTES, 1016 - FONE 3643-1004",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 19",
+            "municipio": "ALTO ALEGRE DO PARECIS",
+            "local": "PAULO FREIRE - ESCOLA MUNICIPAL",
+            "endereco": "AV. PRESIDENTE PRUDENTE, 3802 - FONE 3643-1332",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 19",
+            "municipio": "ALTO ALEGRE DO PARECIS",
+            "local": "FERNANDO SABINO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA P 40 KM 105 DIST. FLOR DA SERRA - (69) 8454-2991",
+            "bairro": "DISTRITO FLOR DA SERRA",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 19",
+            "municipio": "ALTO ALEGRE DO PARECIS",
+            "local": "JOÃO PAULO I - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 110 KM 135 - VILA BOSCO",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "JOSÉ CESTARI - ESCOLA MUNICIPAL",
+            "endereco": "AV. GETULIO CORNÉLIO VARGAS, 393",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "POSTO DE SAÚDE DA zona RURAL",
+            "endereco": "LINHA KAPA 06, KM 25",
+            "bairro": "zona RURAL",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "IGREJA SÃO JOSÉ - IGREJA",
+            "endereco": "LINHA 105 COM A P-08",
+            "bairro": "zona RURAL",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "ESCOLA JOAO BOSCO ALTOE",
+            "endereco": "LINHA P-4, KM 12",
+            "bairro": "zona RURAL",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "ANTONIO CANDIDO DA SILVEIRA- ESCOLA MUNICIPAL",
+            "endereco": "LINHA 90, KM 32, ESQUINA COM A LINHA KAPA ZERO",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "ESCOLA JORGE PROCHNOW",
+            "endereco": "LINHA P-2, KM 08",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "IGREJA NOSSA SENHORA APARECIDA",
+            "endereco": "LINHA P-14 NOVA, KM 07",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 19",
+            "municipio": "PARECIS",
+            "local": "DOM PEDRO II - ESCOLA MUNICIPAL",
+            "endereco": "LINHA KAPA 24, COMUNIDADE SAO PEDRO",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "MARECHAL RONDON - ESCOLA ESTADUAL - 1 GRAU",
+            "endereco": "RUA JOAO PESSOA, 2000 - FONE 3434 2277",
+            "bairro": "CENTRO",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "JUSCELINO KUBITSCHEK - ESCOLA ESTADUAL - 1 E 2 GRAU",
+            "endereco": "AV. TANCREDO NEVES, 2221 - FONE 3434-2362",
+            "bairro": "CENTRO",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "ASPRU - ASSOCIAÇÃO",
+            "endereco": "LINHA 188, KM 01, SUL",
+            "bairro": "zona RURAL",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "NILO PEÇANHA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 172, KM 4 - LADO SUL",
+            "bairro": "zona RURAL",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "ASPRUNE - ASSOCIAÇÃO",
+            "endereco": "LINHA 45, ESQUINA COM A LINHA 176",
+            "bairro": "zona RURAL",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "IGREJA NOSSA SENHORA DE FÁTIMA",
+            "endereco": "LINHA 204 KM 04 SUL",
+            "bairro": "zona RURAL",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "BOA VISTA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 180, KM 15, SUL",
+            "bairro": "zona RURAL",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "EXPEDITO GONÇALVES FERREIRA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA P-18 VELHA",
+            "bairro": "zona RURAL",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "ASPRUBE - ASSOCIAÇÃO",
+            "endereco": "LINHA P-22, KM 32",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "IGREJA BATISTA NACIONAL",
+            "endereco": "LINHA 196 KM 12 NORTE",
+            "bairro": "zona RURAL",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "IGREJA SAGRADO CORAÇÃO DE JESUS",
+            "endereco": "LINHA 45, ESQUINA COM A LINHA 208",
+            "bairro": "zona RURAL",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SANTA LUZIA D'OESTE",
+            "local": "IGREJA NOSSA SENHORA DE LURDES",
+            "endereco": "LINHA P-18 NOVA, KM 03",
+            "bairro": "zona RURAL",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "FELIPE CAMARAO - ESCOLA ESTADUAL",
+            "endereco": "RUA JORGE TEIXEIRA, S/N FONE 3445-1112",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "ORLINDO GONÇALVES DA ROCHA - ESCOLA MUNICIPAL",
+            "endereco": "RUA 05 ESQUINA COM A AVENIDA 01",
+            "bairro": "DISTRITO NOVO PARAISO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "COMUNIDADE BOM JESUS - IGREJA",
+            "endereco": "LINHA FA-01, KM 08, SENTIDO NOVO PARAISO",
+            "bairro": "zona RURAL",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "COMUNIDADE SÃO JOÃO - IGREJA",
+            "endereco": "LINHA 45, KM 12, SENTIDO PRIMAVERA DE RONDONIA",
+            "bairro": "zona RURAL",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "IGREJA NOSSA SENHORA APARECIDA",
+            "endereco": "LINHA FP-08, ESQUINA COM A LH FA-01, SENTIDO QUERÊNCIA DO NORTE",
+            "bairro": "zona RURAL",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "IGREJA JESUS DE NAZARÉ",
+            "endereco": "LINHA FA-01, KM 10, SENTIDO QUERÊNCIA DO NORTE",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "IGREJA SÃO LUIZ REIS",
+            "endereco": "LINHA 41, KM 07",
+            "bairro": "zona RURAL",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 19",
+            "municipio": "SÃO FELIPE D'OESTE",
+            "local": "COMUNIDADE SÃO JOSÉ - IGREJA",
+            "endereco": "LINHA FP-06, ESQUINA COM A LH FA-01 SENTIDO QUERÊNCIA",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "CANTO DO UIRAPURU - ESCOLA MUNICIPAL",
+            "endereco": "RUA RIO BONITO, 1953",
+            "bairro": "AEROCLUBE",
+            "codigo": "1392"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JUSCELINO KUBTSCHECK - ESCOLA ESTADUAL",
+            "endereco": "RUA RAIMUNDO CANTUÁRIA,5129, 3222-2185",
+            "bairro": "AGENOR DE CARVALHO",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "COLEGIO ADVENTISTA - PRIVADO",
+            "endereco": "AV. RIO MADEIRA, 2166",
+            "bairro": "AGENOR DE CARVALHO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "CASA DO MENOR ADOLESCENTE",
+            "endereco": "RUA RIO DE JANEIRO",
+            "bairro": "AGENOR DE CARVALHO",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "ESTRELA DO AMANHA - ESCOLA MUNICIPAL",
+            "endereco": "R. MATO GROSSO, 696",
+            "bairro": "CALADINHO",
+            "codigo": "1422"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "HÉLIO NEVES BOTELHO - ESCOLA ESTADUAL",
+            "endereco": "RUA NOVA ESPERANÇA, 3189",
+            "bairro": "CALADINHO",
+            "codigo": "1341"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "TANCREDO NEVES - ESCOLA ESTADUAL",
+            "endereco": "RUA TANCREDO NEVES, 4.718",
+            "bairro": "CALADINHO",
+            "codigo": "1350"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "HEITOR VILLA LOBOS - ESCOLA ESTADUAL",
+            "endereco": "RUA 8 DE JULHO, 1.730",
+            "bairro": "CASTANHEIRA",
+            "codigo": "1384"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "DOM PEDRO I - ESCOLA ESTADUAL",
+            "endereco": "RUA BANZO, 2194",
+            "bairro": "CASTANHEIRA",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "RIO GUAPORE - ESCOLA MUNICIPAL",
+            "endereco": "RUA SANTAREM, 2.137",
+            "bairro": "CASTANHEIRA",
+            "codigo": "1406"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JOAQUIM VICENTE RONDON - ESCOLA MUNICIPAL",
+            "endereco": "RUA GAROPABA, 2.615",
+            "bairro": "COHAB",
+            "codigo": "1368"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "TUCUMÃ - ESCOLA MUNICIPAL",
+            "endereco": "RUA ABOBORA, 5992",
+            "bairro": "COHAB",
+            "codigo": "1376"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JORGE VICENTE SALAZAR DOS SANTOS - ESCOLA ESTADUAL",
+            "endereco": "RUA JERÔNIMO SANTANA, 3103",
+            "bairro": "COHAB",
+            "codigo": "1457"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "ASSOCIAÇÃO DE MORADORES E PRODUTORES TERRA SANTA - AMOPTS",
+            "endereco": "LINHA 7",
+            "bairro": "COMUNIDADE TERRA SANTA",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "MANOEL GRANGEIRO - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA 13 DE SETEMBRO - KM 11",
+            "bairro": "COMUNIDADE VIÇOSA",
+            "codigo": "1430"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA PADRÃO - ENGENHEIRO FRANCISCO ERSE - ESCOLA MUNICIPAL",
+            "endereco": "AV. AMAzonaS, 6363",
+            "bairro": "CUNIA",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "GENERAL OSORIO - ESCOLA MUNICIPAL",
+            "endereco": "RUA SAO JOSE, S/N - bairro SAO JOSE - FONE PUB. 3235-1094",
+            "bairro": "DISTRITO CALAMA",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "ANA ADELAIDE - ESCOLA MUNICIPAL",
+            "endereco": "RUA DO AEROPORTO, 135, bairro S. FRANCISCO",
+            "bairro": "DISTRITO CALAMA",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "RAIMUNDO NONATO VIEIRA DA SILVA- ESCOLA ESTADUAL - CUJUBIM-GRANDE",
+            "endereco": "DISTRITO DE CUJUBIM GRANDE - RIO MADEIRA",
+            "bairro": "DISTRITO CUJUBIM GRANDE",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "DEIGMAR MORAES DE SOUZA - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA 28 DE NOVEMBRO S/N RAMAL DA PENAL",
+            "bairro": "DISTRITO CUJUBIM GRANDE",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JOAO DE BARROS GOUVEIA - ESCOLA ESTADUAL - DIST DEMARCAÇÃO",
+            "endereco": "DIST. DEMARCAÇÃO - RIO MACHADO",
+            "bairro": "DISTRITO DEMARCACAO RIO MACHADO",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JOÃO DE BARROS GOUVEIA - ESCOLA ESTADUAL - DISTR DEMARCAÇÃO",
+            "endereco": "RIO MACHADO",
+            "bairro": "DISTRITO DEMARCACAO RIO MACHADO",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "MANOEL MACIEL NUNES - ESCOLA MUNICIPAL",
+            "endereco": "RIO MADEIRA S/N",
+            "bairro": "DISTRITO NAZARE",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "MARIA ANGELICA QUEIROZ - ESCOLA MUNICIPAL - DIST NOVA ALIANÇA",
+            "endereco": "DIST. DE NOVA ALIANCA",
+            "bairro": "DISTRITO NOVA ALIANCA",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "AQUILES CHAVES PARAGUASSU - ESCOLA MUNICIPAL - DIST PAPAGAIOS",
+            "endereco": "localIDADE DE PAPAGAIOS - BAIXO MADEIRA",
+            "bairro": "DISTRITO PAPAGAIOS",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "HENRIQUE DIAS - ESCOLA MUNICIPAL - DIST SÃO CARLOS",
+            "endereco": "RUA PADRE CHIQUINHO, S/N - FONE PUB. 3230-1030",
+            "bairro": "DISTRITO SAO CARLOS",
+            "codigo": "1198"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "HENRIQUE DIAS - ESCOLA MUNICIPAL - DIST SÃO CARLOS",
+            "endereco": "RUA PADRE CHIQUINHO, S/N",
+            "bairro": "DISTRITO SAO CARLOS",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "MARIA DE NAZARÉ - CENTRO EDUCACIONAL CENTRO EDUCACIONAL",
+            "endereco": "RUA AQUARIQUARA, 683",
+            "bairro": "ELDORADO",
+            "codigo": "1449"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JOÃO BENTO DA COSTA - ESCOLA ESTADUAL",
+            "endereco": "RUA DAS CAMÉLIAS, 5.301",
+            "bairro": "ELDORADO",
+            "codigo": "1414"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "JESUS BURLAMAQUI HOSANNAH - ESCOLA ESTADUAL",
+            "endereco": "RUA DAS CRIANÇAS, 4.686",
+            "bairro": "FLORESTA",
+            "codigo": "1465"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "CRECHE MUNICIPAL JARDIM SANTANA",
+            "endereco": "AVENIDA AMAzonaS, S/N",
+            "bairro": "JARDIM SANTANA",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "ULISSES GUIMARAES - ESCOLA ESTADUAL",
+            "endereco": "RUA PIRINOPOLIS, S/N",
+            "bairro": "JARDIM SANTANA",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "PROFESSOR ORLANDO FREIRE - ESCOLA ESTADUAL",
+            "endereco": "AV. RIO DE JANEIRO,4864 PUB 3225-0898 DIR. 3222-1337",
+            "bairro": "LAGOA",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "SESI - CENTRO EDUCACIONAL DR GILBERTO MENDES DE AZEVEDO",
+            "endereco": "RUA RIO DE JANEIRO,4734",
+            "bairro": "LAGOA",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "ESCOLA CASTRO ALVES - ESCOLA MUNICIPAL",
+            "endereco": "SANTA CATARINA S/N BAIXO MADEIRA",
+            "bairro": "localIDADE SANTA CATARINA",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "GOVERNADOR ARAÚJO LIMA - ESCOLA ESTADUAL",
+            "endereco": "AV. SETE DE SETEMBRO, 3697",
+            "bairro": "NOVA PORTO VELHO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "HERBERT DE ALENCAR - ESCOLA ESTADUAL",
+            "endereco": "RUA MANOEL LAURENTINO DE SOUZA, 1299",
+            "bairro": "NOVA PORTO VELHO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "GOVERNADOR PETRONIO BARCELOS - ESCOLA ESTADUAL",
+            "endereco": "RUA ALEXANDRE GUIMARÃES, 3862",
+            "bairro": "NOVA PORTO VELHO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "FRANCISCO BRAGA - ESCOLA MUNICIPAL",
+            "endereco": "SEDE DA RESERVA EXTRATIVISTA DO LAGO DO CUNIA, FONE PUB. 3230-1306",
+            "bairro": "RESERVA LAGO DO CUNIA",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "E.M.E.I.E.F. SOM DA CRAVIOLA",
+            "endereco": "RUA PIRITA, 8535",
+            "bairro": "SOCIALISTA",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "FRANCISCO ELENILSON NEGREIROS - ESCOLA MUNICIPAL",
+            "endereco": "RUA ALTO DO BRONZE C/ MANÉ GARRINCHA, 9422",
+            "bairro": "SOCIALISTA",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "MARIA CARMOSINA PINHEIRO - ESCOLA ESTADUAL",
+            "endereco": "RUA RAIMUNDO CANTUÁRIA, 7893",
+            "bairro": "TIRADENTES",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "UNIÃO - ESCOLA MUNICIPAL",
+            "endereco": "ESTRADA 28 DE NOVEMBRO - KM 22",
+            "bairro": "zona RURAL",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO",
+            "local": "PENITENCIÁRIA DE MÉDIO PORTE - PANDINHA",
+            "endereco": "ESTRADA DA PENAL, KM 4,5",
+            "bairro": "zona RURAL",
+            "codigo": "1473"
+        },
+        {
+            "zona": " 20",
+            "municipio": "PORTO VELHO"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "JONATHAS COELHO NEIVA - ESCOLA MUNICIPAL",
+            "endereco": "RUA DOS ESTUDANTES, S/N - FONE PUB. (69) 3233-1113",
+            "bairro": "DISTRITO TRIUNFO",
+            "codigo": "1031",
+            "latitude": "-9.2793311",
+            "longitude": "-63.4698515"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "ALBINO BUTTNER - ESCOLA ESTADUAL",
+            "endereco": "RUA LUMIAR, 567, FONE (69) 3233-1102 / 1079",
+            "bairro": "DISTRITO TRIUNFO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "PRE ESCOLA FRANCISCO ALVES DA SILVA",
+            "endereco": "RUA AYRTON SENNA, S/N, FONE (069) 3230-2645",
+            "bairro": "PALHEIRAL",
+            "codigo": "1074",
+            "latitude": "-8.781996800000002",
+            "longitude": "-63.69961300000001"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "ESCOLA CANDIDO GIACOMETT",
+            "endereco": "ENTROCAMENTO DAS LINHAS 01 E 02",
+            "bairro": "PROJETO DE ASSENTAMENTO FLOR DO AMAzonaS",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "JEQUITIBÁ - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 35 - KM 28 - VILA BOA ESPERANÇA",
+            "bairro": "PROJETO DE ASSENTAMENTO JEQUITIBÁ",
+            "codigo": "1104",
+            "latitude": "-8.7955496",
+            "longitude": "-63.70224409999999"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "TEODORO DE ASSUNCAO - ESCOLA ESTADUAL",
+            "endereco": "RUA 01, 964 - FONE PUB. 3230-2118",
+            "bairro": "SANTA ISABEL",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "JAIME BACESSAT - ESCOLA ESTADUAL",
+            "endereco": "RUA JERONIMO SANTANA, 200, FONE (69) 3230 1082",
+            "bairro": "SATÉLITE",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "CARLOS DRUMOND DE ANDRADE",
+            "endereco": "RUA TANCREDO NEVES, 1487 - FONE 3230-2191",
+            "bairro": "UNIÃO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "DOM JOAO BATISTA COSTA",
+            "endereco": "RUA AYRTON SENNA, 604 - FONE PUB. 3230-1290",
+            "bairro": "UNIÃO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 21",
+            "municipio": "CANDEIAS DO JAMARI",
+            "local": "MÁRIO COVAS - ESCOLA MUNICIPAL",
+            "endereco": "VILA NOVA SAMUEL - LINHA 45 - FONE (069)3241 1000",
+            "bairro": "VILA NOVA SAMUEL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "FLAMBOYANT - ESCOLA MUNICIPAL",
+            "endereco": "RUA JOSÉ AMADOR DOS REIS, 1750",
+            "bairro": "CASCALHEIRA",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "ULISSES SOARES FERREIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA JOSÉ AMADOR DOS REIS N 2938",
+            "bairro": "JUSCELINO KUBITSCHEK",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "SAO LUIZ - ESCOLA ESTADUAL",
+            "endereco": "RUA MARIO ANDREAZA, 8186",
+            "bairro": "JUSCELINO KUBITSCHEK",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "DANIEL NERY DA SILVA - ESCOLA ESTADUAL",
+            "endereco": "RUA BENEDITO INOCENCIO DA SILVA S/N",
+            "bairro": "JUSCELINO KUBITSCHEK",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "MADRE TEREZA DE CALCUTÁ - ESCOLA MUNICIPAL",
+            "endereco": "RUA PORTO VELHO, N. 3544",
+            "bairro": "LAGOINHA",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "ESTELA DE ARAÚJO COMPASSO - ESCOLA MUNICIPAL",
+            "endereco": "RUA COLATINA, 2030",
+            "bairro": "MARCOS FREIRE",
+            "codigo": "1198"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "JANIO DA SILVA QUADROS - ESCOLA ESTADUAL",
+            "endereco": "RUA ROSALINA GOMES, 9991",
+            "bairro": "MARIANA",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "MARCOS FREIRE - ESCOLA ESTADUAL",
+            "endereco": "RUA RIO LAJE, 11927",
+            "bairro": "RONALDO ARAGAO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "MARIANA - ESCOLA ESTADUAL",
+            "endereco": "RUA CARLOS RIES, 9317",
+            "bairro": "SAO FRANCISCO",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "BOM PRINCIPIO - ESCOLA MUNICIPAL",
+            "endereco": "RUA ENG. PAULO PINHEIRO, 1616",
+            "bairro": "TANCREDO NEVES",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "RISOLETA NEVES - ESCOLA ESTADUAL",
+            "endereco": "RUA EDITE FEITOSA, 8158",
+            "bairro": "TANCREDO NEVES",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "PADRE GEOVANI MENDES - ESCOLA MUNICIPAL",
+            "endereco": "RUA BENEDITO INOCÊNCIO, 6913",
+            "bairro": "TRES MARIAS",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "12 DE OUTUBRO - ESCOLA MUNICIPAL",
+            "endereco": "RUA AMÉRICA DO NORTE,2455",
+            "bairro": "TRES MARIAS",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "WADIH DARWICH ZACARIAS - ESCOLA MUNICIPAL",
+            "endereco": "RUA CIDADE, 2118",
+            "bairro": "TRES MARIAS",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "PINGO DE GENTE - ESCOLA MUNICIPAL",
+            "endereco": "RUA ORION, 0102",
+            "bairro": "ULYSSES GUIMARAES",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "JORGE TEIXEIRA DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA ORION, N 2701",
+            "bairro": "ULYSSES GUIMARAES",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 21",
+            "municipio": "PORTO VELHO",
+            "local": "PAULO LEAL - ESCOLA ESTADUAL",
+            "endereco": "BR 364 S/N, KM 14 - SENTIDO CUIABA",
+            "bairro": "zona RURAL",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 21",
+            "municipio": "Indefinido",
+            "local": "Indefinido",
+            "endereco": "Indefinido",
+            "bairro": "Indefinido",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "SANTA MARCELINA - ESCOLA MUNICIPAL",
+            "endereco": "RUA SANTA MARCELINA, S/N",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "LAURINDO RABELO - ESCOLA ESTADUAL",
+            "endereco": "RUA MÁRIO LUIZ BARBOSA, N 3218 - FONE 69 3534-2058",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "ROGÉRIO DA SILVA GONÇALVES - ESCOLA MUNICIPAL",
+            "endereco": "RUA PAULO VI, S/N",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "13 DE SETEMBRO - ESCOLA MUNICIPAL - DISTRITO DE VILA NOVA",
+            "endereco": "BR-364 - ENTRADA DO CUJUBIM, DISTRITO DE VILA NOVA - CENTRO",
+            "bairro": "DISTrito VILA NOVA",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "CUSTÓDIO GABRIEL FILHO - ESCOLA ESTADUAL DE ENSINO FUNDAMENTAL",
+            "endereco": "RUA MARINGÁ, 3629",
+            "bairro": "JARDIM ALVORADA II",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "MAURÍCIO DE NASSAU - ESCOLA MUNICIPAL - LINHA C-110",
+            "endereco": "LINHA C-110 TRAVESSÃO B-10",
+            "bairro": "zona RURAL",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "UNIÃO DO ALTO ALEGRE - ESCOLA MUNICIPAL",
+            "endereco": "LINHA C-85, TB-0",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "TEREZA CRISTINA - ESCOLA MUNICIPAL",
+            "endereco": "BR-364, LINHA C-107,5, TB-40",
+            "bairro": "zona RURAL",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 25",
+            "municipio": "ALTO PARAÍSO",
+            "local": "PADRE ANGELO SPADARI - ESCOLA MUNICIPAL - LINHA C-100",
+            "endereco": "LINHA C-100 TRAVESSÃO B-20",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 25",
+            "municipio": "MONTE NEGRO",
+            "local": "MÁRIO PALMÉRIO - ESCOLA MUNICIPAL - DISTR MASSANGANA",
+            "endereco": "BR-421, KM-25, LINHA C-50, DISTRITO DE MASSANGANA",
+            "bairro": "DISTRITO DE MASSANGANA",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 25",
+            "municipio": "MONTE NEGRO",
+            "local": "AURELIO BUARQUE DE HOLANDA FERREIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA JUSTINO LUIZ RONCONI, 2122",
+            "bairro": "SETOR 01",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 25",
+            "municipio": "MONTE NEGRO",
+            "local": "MATO GROSSO - ESCOLA ESTADUAL",
+            "endereco": "RUA JUSTINO LUIZ RONCONI, 2080",
+            "bairro": "SETOR 01",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 25",
+            "municipio": "MONTE NEGRO",
+            "local": "MARIA DE ABREU BIANCO - ESCOLA MUNICIPAL",
+            "endereco": "RUA JOSÉ VALADARES, S/N",
+            "bairro": "SETOR 03",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 25",
+            "municipio": "MONTE NEGRO",
+            "local": "MARCOS VINICIUS CRUZ DE MORAIS - ESCOLA MUNICIPAL",
+            "endereco": "AV. JOSÉ PREFEITO, S/N",
+            "bairro": "SETOR 04",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 25",
+            "municipio": "MONTE NEGRO",
+            "local": "22 DE ABRIL - ESCOLA MUNICIPAL",
+            "endereco": "BR-421, LINHA C-35, KM-10",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 26",
+            "municipio": "ALTO PARAÍSO",
+            "local": "FREI HENRIQUE DE COIMBRA - ESCOLA ESTADUAL",
+            "endereco": "TEREZA MAZZORANA BORLOTTO, 2128 - FONE 69 3532-2057",
+            "bairro": "SETOR 01",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 26",
+            "municipio": "ALTO PARAÍSO",
+            "local": "NELSO ALQUIERI - ESCOLA MUNICIPAL",
+            "endereco": "RUA ALTO PARAISO, 1848 - FONE 69 3532-2044",
+            "bairro": "SETOR 05",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 26",
+            "municipio": "ALTO PARAÍSO",
+            "local": "VALDIR ALBERTON - ESCOLA MUNICIPAL - TRAVESSÃO B-40",
+            "endereco": "TRAVESSAO B-40, LINHA C-25, BR-364 -FONE - 9974-6208",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 26",
+            "municipio": "ALTO PARAÍSO",
+            "local": "WALDEMIRO DA SILVA MOURA - ESCOLA MUNICIPAL - CUNHA DO MARECHAL",
+            "endereco": "LINHA C-03, TRAVESSAO B-80, BR-364, CUNHA DO MARECHAL - 3521-8898",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 26",
+            "municipio": "CUJUBIM",
+            "local": "ALUÍSIO BECKER - ESCOLA MUNICIPAL",
+            "endereco": "AV. GALO DA SERRA, N. 2113,",
+            "bairro": "SETOR 01",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 26",
+            "municipio": "CUJUBIM",
+            "local": "PEQUENO PRÍNCIPE - ESCOLA MUNICIPAL",
+            "endereco": "RUA ROUXINOL, 2481",
+            "bairro": "SETOR 02",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 26",
+            "municipio": "CUJUBIM",
+            "local": "ANTONIO FRANCISCO LISBOA - ESCOLA ESTADUAL",
+            "endereco": "AV. MARACANA, 1413 - 69 3582-2050",
+            "bairro": "SETOR 03",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 26",
+            "municipio": "CUJUBIM",
+            "local": "TEOTÔNIO BRANDÃO VILELA - ESCOLA MUNICIPAL - CASTANHEIRAS",
+            "endereco": "RODOVIA RO-205(LINHA C-105), KM-23, CASTANHEIRAS",
+            "bairro": "zona RURAL",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 26",
+            "municipio": "CUJUBIM",
+            "local": "ANTONIO FREDERICO DE CASTRO ALVES - ESCOLA MUNICIPAL - AMÉRICO VENTURA",
+            "endereco": "PROJETO DE ASSENTAMENTO AMERICO VENTURA",
+            "bairro": "zona RURAL",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 26",
+            "municipio": "CUJUBIM"
+        },
+        {
+            "zona": " 26",
+            "municipio": "RIO CRESPO",
+            "local": "FRANCISCO MIGNONE - ESCOLA ESTADUAL",
+            "endereco": "RUA GOV. OSVALDO PIANA FILHO, 1751",
+            "bairro": "SETOR 01",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 26",
+            "municipio": "RIO CRESPO"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA",
+            "local": "ARMINDO FERREIRA FRAGA - ESCOLA MUNICIPAL",
+            "endereco": "RUA CEREJEIRAS, S/N",
+            "bairro": "CENTRO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA",
+            "local": "COSTA JUNIOR - ESCOLA ESTADUAL",
+            "endereco": "AVENIDA PEDRAS BRANCAS, 2439",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA",
+            "local": "FERNAO DIAS PAES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 621, KM 55",
+            "bairro": "COMUNIDADE RURAL DE SÃO VICENTE",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA",
+            "local": "CLAUDIO MANOEL DA COSTA - ESCOLA ESTADUAL",
+            "endereco": "LINHA 660, KM 115",
+            "bairro": "DISTRITO COLINA VERDE",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA",
+            "local": "SUED ALVES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 621, KM 62",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA",
+            "local": "ANTONIO AUGUSTO DE LIMA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 646, KM 60",
+            "bairro": "zona RURAL",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 27",
+            "municipio": "GOVERNADOR JORGE TEIXEIRA"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "ESCOLA ÁGUA CRISTALINA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 603, KM 42, AGROVILA AGUA CRISTALINA",
+            "bairro": "ASSENTAMENTO PRIMAVERA",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "ESCOLA PRIMAVERA - ESCOLA ESTADUAL",
+            "endereco": "RUA 13 DE FEVEREIRO, 1460",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "MANOEL RIBEIRO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 603, KM 55 - VILA PALMARES DO OESTE",
+            "bairro": "DISTRITO VILA PALMARES DO OESTE",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "JOÃO MARQUES FERREIRA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 605, TRAVESSAO 04 - KM 40",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "JOSILEI DA SILVA NASCIMENTO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 605, TRAVESSAO 10 - KM 50",
+            "bairro": "zona RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "ESCOLA ANTONIO CONSELHEIRO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA C-50, KM 50",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA",
+            "local": "PAPA PAULO VI - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 599, KM 20",
+            "bairro": "zona RURAL",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 27",
+            "municipio": "THEOBROMA"
+        },
+        {
+            "zona": " 28",
+            "municipio": "MIRANTE DA SERRA",
+            "local": "TERRA INDÍGENA URU-EU-WAU-WAU",
+            "endereco": "LINHA ELETRÔNICA KM 43",
+            "bairro": "ALDEIA URU-EU-WAU-WAU",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 28",
+            "municipio": "MIRANTE DA SERRA",
+            "local": "PROFESSOR EDSON DUARTE LOPES - ESCOLA MUNICIPAL",
+            "endereco": "RUA PIAUI",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 28",
+            "municipio": "MIRANTE DA SERRA",
+            "local": "MIGRANTES - ESCOLA ESTADUAL",
+            "endereco": "RUA PRINCESA ISABEL - 2369",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 28",
+            "municipio": "MIRANTE DA SERRA",
+            "local": "FLORIZEL LAMEGO FERRARI - ESCOLA MUNICIPAL",
+            "endereco": "RUA GONÇALVES DE PAIVA - 3375",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 28",
+            "municipio": "NOVA UNIÃO",
+            "local": "PREFEITURA MUNICIPAL",
+            "endereco": "SEÇÕES TRASNFERIDAS PARA A ESCOLA MARCOS ADRIANO ISSLER",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 28",
+            "municipio": "NOVA UNIÃO",
+            "local": "MANOEL FRANCISCO DE OLIVEIRA - ESCOLA MUNICIPAL",
+            "endereco": "RUA 13 DE MAIO",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 28",
+            "municipio": "NOVA UNIÃO",
+            "local": "MARCOS ADRIANO ISSLER - ESCOLA MUNICIPAL",
+            "endereco": "RUA PORTO VELHO, S/N",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 28",
+            "municipio": "NOVA UNIÃO"
+        },
+        {
+            "zona": " 28",
+            "municipio": "VALE DO PARAÍSO",
+            "local": "PREFEITURA MUNICIPAL",
+            "endereco": "SEÇÕES ELEITORAIS TRANSFERIDAS PARA A ESCOLA TUBARÃO.",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 28",
+            "municipio": "VALE DO PARAÍSO",
+            "local": "CENTRO EDUCACIONAL TURMA DA MONICA - ESCOLA MUNICIPAL",
+            "endereco": "RUA PRIMAVERA C/ PARAÍSO, 4015 - FONE 3464 1198",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 28",
+            "municipio": "VALE DO PARAÍSO",
+            "local": "TUBARAO - ESCOLA ESTADUAL",
+            "endereco": "RUA DAS ORQUIDEAS C/ 15 DE NOVEMBRO, S/N - FONE 3464 1030 / 1446",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 28",
+            "municipio": "VALE DO PARAÍSO",
+            "local": "JORGE TEIXEIRA - ESCOLA MUNICIPAL - DISTRITO SANTA ROSA",
+            "endereco": "LINHA 614 KM 36 - FONE 3464-1391",
+            "bairro": "DISTRITO SANTA ROSA",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 28",
+            "municipio": "VALE DO PARAÍSO",
+            "local": "ESCOLA AIMORÉS - CEDRO ROSA",
+            "endereco": "local DE VOTAÇÃO INATIVO.",
+            "bairro": "zona RURAL",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 28",
+            "municipio": "VALE DO PARAÍSO"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "TANCREDO DE ALMEIDA NEVES - ESCOLA ESTADUAL",
+            "endereco": "AV. SAO PAULO, 4679 - FONE 442-3036",
+            "bairro": "BEIRA RIO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "PROFESSOR DIONISIO QUINTINO",
+            "endereco": "RUA RIO VERDE, 6480",
+            "bairro": "BEIRA RIO",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "CENTRO EDUCACIONAL DE ROLIM DE MOURA",
+            "endereco": "RUA TOCANTINS, 5884",
+            "bairro": "BOA ESPERANÇA",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "DINA SFAT - ESCOLA ESTADUAL",
+            "endereco": "RUA VIOLETA, 6829 - FONE 3442-3448",
+            "bairro": "BOM JARDIM",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "ALUIZIO PINHEIRO FERREIRA - ESCOLA ESTADUAL",
+            "endereco": "AV. MACEIO, 4665 - FONE 3442-1523",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "ESCOLA PRISCILA RODRIGUES CHAGAS",
+            "endereco": "AV. CECILIA MEIRELES, 5866",
+            "bairro": "CIDADE ALTA",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "JOSE ROSALES DOS SANTOS - ESCOLA ESTADUAL",
+            "endereco": "AV. SAO BENTO, 3572 - FONE 3432-2266",
+            "bairro": "DISTRITO NOVA ESTRELA",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "NILSON SILVA - ESCOLA ESTADUAL",
+            "endereco": "AV. ARACAJU 3065 - FONE 3442-2643",
+            "bairro": "JARDIM TROPICAL",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "MARIA DO CARMO DE OLIVEIRA RABELO - ESCOLA ESTADUAL",
+            "endereco": "AV. RELIQUIA, 4560 - FONE 3442-2842",
+            "bairro": "OLÍMPICO",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "ESCOLA CÂNDIDO PORTINARI",
+            "endereco": "AV. FORTALEZA, 5550",
+            "bairro": "PLANALTO",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS",
+            "endereco": "RUA RIO MADEIRA, 4807",
+            "bairro": "PLANALTO",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "CARLOS DRUMOND DE ANDRADE - ESCOLA ESTADUAL",
+            "endereco": "AV. MACAPA, 6253 - FONE 3442-2700",
+            "bairro": "SÃO CRISTOVÃO",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA",
+            "local": "POLO FRANCISCO DURAN COSTA - ESCOLA",
+            "endereco": "RO-010, KM 13",
+            "bairro": "zona RURAL",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 29",
+            "municipio": "ROLIM DE MOURA"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "ALDEIA ITERAP - ALDEIA INDÍGENA",
+            "endereco": "TERRA INDÍGINA IGARAPÉ LURDES, ACESSO PELA LINHA 74",
+            "bairro": "ALDEIA ITERAP",
+            "codigo": "1252"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "ALDEIA PAY GAP - ALDEIA INDÍGENA",
+            "endereco": "TERRA INDÍGINA IGARAPÉ LURDES",
+            "bairro": "ALDEIA PAY GAP",
+            "codigo": "1260"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "MARCOS BISPO DA SILVA - ESCOLA ESTADUAL",
+            "endereco": "RUA G, 69",
+            "bairro": "BNH",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "DR LOURENCO PEREIRA LIMA - ESCOLA ESTADUAL",
+            "endereco": "RUA EDSON LIMA DO NASCIMENTO, N. 6280",
+            "bairro": "CAPELASSO",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "PROFA CARMEM ROCHA BORGES - ESCOLA ESTADUAL",
+            "endereco": "RUA ABILIO FREIRE, 611",
+            "bairro": "ECOVILE",
+            "codigo": "1295"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "JOSE FRANCISCO DOS SANTOS - ESCOLA ESTADUAL",
+            "endereco": "RUA PORTO VELHO, 2336",
+            "bairro": "ECOVILE",
+            "codigo": "1317"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "MARECHAL RONDON - INSTITUTO ESTADUAL DE EDUCAÇÃO",
+            "endereco": "AV. TRANSCONTINENTAL 710",
+            "bairro": "ECOVILE",
+            "codigo": "1309"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "PROFA EDILCE DOS SANTOS FREITAS - ESCOLA ESTADUAL",
+            "endereco": "RUA VITORIA REGIA, 821",
+            "bairro": "ECOVILE",
+            "codigo": "1333"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "SAO PEDRO - ESCOLA ESTADUAL",
+            "endereco": "RUA TRES IRMAOS, 407",
+            "bairro": "ECOVILE",
+            "codigo": "1325"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "IKOLEN - POSTO INDÍGENA",
+            "endereco": "LINHA 82 - TERRA INDIGENA IGARAPÉ LURDES",
+            "bairro": "IKOLEN - NOVA COLINA",
+            "codigo": "1210"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "ADÃO VALDIR LAMOTA - ESCOLA ESTADUAL",
+            "endereco": "RUA GUARULHOS, N.2610",
+            "bairro": "JK",
+            "codigo": "1244"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "JANETE CLAIR - ESCOLA ESTADUAL",
+            "endereco": "RUA JOAQUIM F. DE OLIVEIRA, N. 2809 T-24, ENTRE K-1 E K-2",
+            "bairro": "JK",
+            "codigo": "1198"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "ALUIZIO FERREIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA SAO PAULO, N. 1627",
+            "bairro": "NOVA BRASILIA",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "RUTH ROCHA - ESCOLA ESTADUAL",
+            "endereco": "RUA SÃO LUIZ, N. 1831, ENTRE T15 E T16",
+            "bairro": "NOVA BRASILIA",
+            "codigo": "1287"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "CORA CORALINA - ESCOLA ESTADUAL",
+            "endereco": "RUA IPE (T 17), N.1694",
+            "bairro": "NOVA BRASILIA",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "JÚLIO GUERRA - ESCOLA ESTADUAL",
+            "endereco": "RUA CASTELO BRANCO, 1523",
+            "bairro": "NOVA BRASILIA",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "JUSCELINO KUBITSCHEK DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA CEL. JORGE TEIXEIRA, N.827",
+            "bairro": "NOVA BRASILIA",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "TUPÃ - ESCOLA ESTADUAL - DISTR DE NOVA COLINA",
+            "endereco": "RUA TIRADENTES, N. 696",
+            "bairro": "NOVA COLINA",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "PARQUE DOS PIONEIROS - ESCOLA ESTADUAL",
+            "endereco": "RUA JERUSALEM, 70 - FONE 424-1313",
+            "bairro": "PARQUE DOS PIONEIROS",
+            "codigo": "1201"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "BEATRIZ FERREIRA DA SILVA - ESCOLA ESTADUAL",
+            "endereco": "RUA AMAzonaS, 1449",
+            "bairro": "PRIMAVERA",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "SUFRAMA - SUPERINTEDÊNCIA DA zona FRANCA DE MANAUS",
+            "endereco": "AV. TRANSCONTINENTAL, 2565 - SAÍDA P/ CUIABÁ",
+            "bairro": "RIACHUELO",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "TANCREDO DE ALMEIDA NEVES - ESCOLA ESTADUAL",
+            "endereco": "RUA XAPURI, N. 1866",
+            "bairro": "RIACHUELO",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "31 DE MARCO - ESCOLA ESTADUAL",
+            "endereco": "RUA VINÍCIUS DE MORAES, N. 1147",
+            "bairro": "SÃO PEDRO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "CEEJA - TERESA MITSUKO TUSTUMI - ESCOLA ESTADUAL",
+            "endereco": "RUA DR. FIEL, N. 257",
+            "bairro": "VILA JOTAO",
+            "codigo": "1279"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "PROFESSOR IRINEU ANTONIO DRESCH - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 128, LOTE 37 E 38, QUADRA 48, PROJETO RIACHUELO",
+            "bairro": "zona RURAL",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "SÃO GABRIEL - ESCOLA MUNICIPAL",
+            "endereco": "LINHA UNIÃO GLEBA PRIRINEUS - KM 16 - SETOR JI-PARANÁ",
+            "bairro": "zona RURAL",
+            "codigo": "1236"
+        },
+        {
+            "zona": " 30",
+            "municipio": "JÍ- PARANÁ",
+            "local": "PÉROLA - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 98 SETOR RIACHUELO - SENTIDO DO DIST DE NOVA COLINA",
+            "bairro": "zona RURAL",
+            "codigo": "1228"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "JOÃO PAULO II - ESCOLA MUNICIPAL",
+            "endereco": "LINHA MA 28 COMUNIDADE ENTRE RIOS",
+            "bairro": "AREA RURAL",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "TOM JOBIM - ESCOLA MUNICIPAL",
+            "endereco": "LINHA MA 28 PE DE GALINHA",
+            "bairro": "AREA RURAL",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "HERMÍNIA CASTOLDI DE OLIVEIRA-ESCOLA MUNICIPAL",
+            "endereco": "LINHA MC 7 NUCLEO HELENOPOLIS",
+            "bairro": "AREA RURAL",
+            "codigo": "1147"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "ONOFRE DIAS LOPES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA RO 133 GLEBA 04 ESCOLA POLO",
+            "bairro": "AREA RURAL",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "BOM FUTURO - ESCOLA MUNICIPAL",
+            "endereco": "AV CASTELO BRANCO 4870",
+            "bairro": "BOM FUTURO",
+            "codigo": "1155"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "JOVINA DE CARVALHO RIBEIRO - ESCOLA MUNICIPAL",
+            "endereco": "AV MARECHAL DEODORO DA FONSECA, 2832",
+            "bairro": "CENTRO",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "CEEJA PAULO FREIRE - ESCOLA ESTADUAL",
+            "endereco": "AV. JOSE LOPES DE OLIVEIRA, 3305",
+            "bairro": "CENTRO",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "AYRTON SENNA - ESCOLA MUNICIPAL",
+            "endereco": "AV. BRASIL, 3142",
+            "bairro": "CENTRO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "ALBERTO NEPOMUNCENO - ESCOLA ESTADUAL",
+            "endereco": "AV. CASTELO BRANCO, 2452",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "JOAQUIM PEREIRA DA ROCHA - ESCOLA ESTADUAL",
+            "endereco": "AV. JOSE LOPES DE OLIVEIRA, 2347",
+            "bairro": "CENTRO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "VALDOMIRO FRANCISCO DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "LOTE 31, GB 02, LINHA MP 3",
+            "bairro": "DISTRITO 5º BEC",
+            "codigo": "1180"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "VISCONDE DO RIO BRANCO - ESCOLA MUNICIPAL",
+            "endereco": "AV. SENADOR OLAVO PIRES, 2628",
+            "bairro": "DISTRITO 5º BEC",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "CRISTOVAO COLOMBO - ESCOLA MUNICIPAL - DISTR 5º BEC",
+            "endereco": "DISTRITO DO 5 BEC",
+            "bairro": "DISTRITO 5º BEC",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "ROBERTO MARINHO - ESCOLA MUNICIPAL",
+            "endereco": "MA 16 KM 40",
+            "bairro": "MA 16",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "PADRE ANGELO CERRI - ESCOLA MUNICIPAL",
+            "endereco": "DISTRITO TABAJARA",
+            "bairro": "NUCLEO RURAL TABAJARA",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "ESCOLA POLO AMIGOS DO CAMPO - ESCOLA MUNICIPAL",
+            "endereco": "LH MP 115",
+            "bairro": "NÚCLEO RURAL AMIGOS DO CAMPO",
+            "codigo": "1171"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "CARLOS CHAGAS - ESCOLA MUNICIPAL - ORIENTE NOVO",
+            "endereco": "NUCLEO RURAL DE ORIENTE NOVO",
+            "bairro": "NÚCLEO RURAL ORIENTE NOVO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE",
+            "local": "MARIA CONCEIÇÃO DE SOUZA - ESCOLA ESTADUAL",
+            "endereco": "AV JOAO BATISTA FIGUEIREDO S/N",
+            "bairro": "UNIAO",
+            "codigo": "1163"
+        },
+        {
+            "zona": " 32",
+            "municipio": "MAHCADINHO DO OESTE"
+        },
+        {
+            "zona": " 32",
+            "municipio": "VALE DO ANARI",
+            "local": "BARTOLOMEU LOURENCO DE GUSMAO-ESCOLA ESTADUAL",
+            "endereco": "AV. 23 DE AGOSTO, 4497",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 32",
+            "municipio": "VALE DO ANARI",
+            "local": "DARCI RIBEIRO-ESCOLA MUNICIPAL",
+            "endereco": "AV. PALMAS, 2395",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 32",
+            "municipio": "VALE DO ANARI",
+            "local": "JANIO QUADROS-ESCOLA MUNICIPAL-NÚCLEO JATUARANA",
+            "endereco": "NUCLEO RURAL DE JATUARANA",
+            "bairro": "NUCLEO RURAL JATUARANA",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 32",
+            "municipio": "VALE DO ANARI",
+            "local": "ORIBE ANTONIO DOS SANTOS-ESCOLA MUNICIPAL-NÚCLEO SÃO MARCOS",
+            "endereco": "NUCLEO RURAL DE SAO MARCOS",
+            "bairro": "NUCLEO RURAL SAO MARCOS",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 32",
+            "municipio": "VALE DO ANARI"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "CENTRO DE RESSOCIALIZAÇÃO JONAS FERRETI",
+            "endereco": "ESTRADA PROJETADA KM 07",
+            "bairro": "AREA RURAL",
+            "codigo": "1139"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "JOSÉ BONIFÁCIO DE ANDRADA E SILVA - ESCOLA MUNICIPAL",
+            "endereco": "LINH C 34, KM 25, P.A. RIO ALTO",
+            "bairro": "AREA RURAL",
+            "codigo": "1090"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "TIRADENTES - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 01. GL 07,MARCO 20 KM 05, LT 05",
+            "bairro": "AREA RURAL",
+            "codigo": "1104"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "MARIA MARTA BRAGA - ESCOLA MUNICIPAL",
+            "endereco": "LH 3 A GLEBA 02 LOTE 22A, KM 35 PA SAO PAULO",
+            "bairro": "AREA RURAL",
+            "codigo": "1112"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "JOSÉ AMÉRICO DE ALMEIDA - ESCOLA MUNICIPAL",
+            "endereco": "LH UNIÃO 20. GL 05, KM 12, LT 29, PA BURITIS",
+            "bairro": "AREA RURAL",
+            "codigo": "1120"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "ESCOLA ELVANDA MARIA SIQUEIRA",
+            "endereco": "AV. PORTO VELHO, 880",
+            "bairro": "SETOR 01",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "CASA DE DETENÇÃO DE BURITIS",
+            "endereco": "AVENIDA PORTO VELHO, N 800, SETOR 01",
+            "bairro": "SETOR 01",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "PAULO FREIRE - ESCOLA MUNICIPAL",
+            "endereco": "RUA MARECHAL HERMES DA FONSECA",
+            "bairro": "SETOR 02",
+            "codigo": "1082"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "PAULO FREIRE - ESCOLA MUNICIPAL",
+            "endereco": "RUA MARECHAL HERMES DA FONSECA, 1360",
+            "bairro": "SETOR 02",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "BURITIS - ESCOLA ESTADUAL",
+            "endereco": "RUA BARRETOS, 1870",
+            "bairro": "SETOR 03",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "MARIA DE ABREU BIANCO - ESCOLA ESTADUAL",
+            "endereco": "AV. FOZ DO IGUACU, 2400",
+            "bairro": "SETOR 03",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "ESCOLA MARECHAL RONDON",
+            "endereco": "RUA CHUPINGUAIA, 2220",
+            "bairro": "SETOR 04",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 34",
+            "municipio": "BURITIS",
+            "local": "ESCOLA FRANCISCO JOSE CHIQUILITO ERSE",
+            "endereco": "RUA AGUIA BRANCA",
+            "bairro": "SETOR 07",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 34"
+        },
+        {
+            "zona": " 34",
+            "municipio": "CAMPO NOVO DE RONDÔNIA",
+            "local": "7 DE SETEMBRO - ESCOLA MUNICIPAL - DISTR TRÊS COQUEIROS",
+            "endereco": "BR 421 L03 RIO JACI KM 150 DISTR DE TRÊS COQUEIROS",
+            "bairro": "AREA RURAL",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 34",
+            "municipio": "CAMPO NOVO DE RONDÔNIA",
+            "local": "CASSIANO RICARDO - ESCOLA MUNICIPAL",
+            "endereco": "RUA DUQUE DE CAXIAS 2101 SETOR 01.",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 34",
+            "municipio": "CAMPO NOVO DE RONDÔNIA",
+            "local": "15 DE OUTUBRO - ESCOLA ESTADUAL",
+            "endereco": "AV COSTA E SILVA, 1034/1853 SETOR 4/CENTRO - FONE 239-2115",
+            "bairro": "SETOR 02",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 34",
+            "municipio": "CAMPO NOVO DE RONDÔNIA",
+            "local": "RIO BRANCO - ESCOLA MUNICIPAL - DISTR CAMPO NOVO",
+            "endereco": "LINHA 2 BR 421 PROJETO RIO BRANCO AV PRINCIPAL",
+            "bairro": "VILA RIO BRANCO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 34",
+            "municipio": "CAMPO NOVO DE RONDÔNIA",
+            "local": "TANCREDO NEVES II - ESCOLA MUNICIPAL - DISTR CAMPO NOVO",
+            "endereco": "BR 421 LINHA LC 15 KM 30 DISTR VILA UNIÃO",
+            "bairro": "VILA UNIAO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 34",
+            "municipio": "CAMPO NOVO DE RONDÔNIA"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "JOSE DO PATROCINIO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 12 S/N DISTRITO DE BOM SUCESSO - CENTRO",
+            "bairro": "BOM SUCESSO",
+            "codigo": "1031"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "OSWALDO PIANA - ESCOLA ESTADUAL",
+            "endereco": "AV. CAPITÃO SILVIO, N. 647 - CENTRO",
+            "bairro": "CENTRO",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "RUI BARBOSA DE OLIVEIRA - ESCOLA ESTADUAL",
+            "endereco": "RUA SÃO PAULO, N. 278 - CENTRO",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "PINÓQUIO- ESCOLA MUNICIPAL",
+            "endereco": "AV CAPITÃO SILVIO",
+            "bairro": "CRISTO REI",
+            "codigo": "1074"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "VENCESLAU BRAS - ESCOLA MUNICIPAL",
+            "endereco": "BR 429 KM 16 SAIDA P/ COSTA MARQUES",
+            "bairro": "MENDES JUNIOR",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "PRINCESA ISABEL - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 14 S/N DISTRITO NOVO PLANALTO - CENTRO",
+            "bairro": "NOVO PLANALTO",
+            "codigo": "1040"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SERINGUEIRAS",
+            "local": "JOSE BONIFACIO - ESCOLA MUNICIPAL",
+            "endereco": "LINHA 108 SUL, KM 17 (VILA GUARUJÁ)",
+            "bairro": "VILA GUARUJÁ",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SÃO MIGUEL DO GUAPORÉ",
+            "local": "PRINCESA ISABEL - ESCOLA ESTADUAL",
+            "endereco": "RUA NOROESTE",
+            "bairro": "CENTRO",
+            "codigo": "1015"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SÃO MIGUEL DO GUAPORÉ",
+            "local": "DEONILDO CARAGNATTO - ESCOLA ESTADUAL",
+            "endereco": "AVENIDA 16 DE JUNHO",
+            "bairro": "CRISTO REI",
+            "codigo": "1023"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SÃO MIGUEL DO GUAPORÉ",
+            "local": "LAZARA ALVES DE LIMA - ESCOLA MUNICIPAL",
+            "endereco": "RUA JATOBA",
+            "bairro": "PLANALTO",
+            "codigo": "1058"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SÃO MIGUEL DO GUAPORÉ",
+            "local": "TIO TECO - ESCOLA MUNICIPAL",
+            "endereco": "RUA MARACATIARA 2091",
+            "bairro": "PLANALTO",
+            "codigo": "1066"
+        },
+        {
+            "zona": " 35",
+            "municipio": "SÃO MIGUEL DO GUAPORÉ",
+            "local": "PRIMAVERA - ESCOLA MUNICIPAL",
+            "endereco": "AVENIDA JOSE DIAS DA SILVA",
+            "bairro": "SANTANA DO GUAPORE",
+            "codigo": "1031"
+        }
+    ]
+}

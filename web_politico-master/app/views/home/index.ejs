@@ -1,0 +1,147 @@
+
+<% include ../template/header %>
+
+
+
+ 
+  <div class="col-md-8">
+
+      <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="x_panel">
+            <div class="x_title">
+              <h2>Contatos por Bairro</h2>
+              <ul class="nav navbar-right panel_toolbox">
+               
+                <li class="dropdown">
+                 
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Settings 1</a>
+                    </li>
+                    <li><a href="#">Settings 2</a>
+                    </li>
+                  </ul>
+                </li>
+                
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+              <canvas id="mybarChart"></canvas>
+            </div>
+          </div>
+      </div>
+
+      <div class="tile_count">
+
+          <div class="animated flipInY col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div class="tile-stats">
+              <div class="icon"><i class="fa fa fa-user"></i></div>
+              <div class="count count-contatos"><%- objeto.cont_contatos %></div>
+              <h3>Contatos</h3>
+              <p>Cadastrados.</p>
+            </div>
+          </div>
+        </div>
+  </div>
+   
+  <div class="col-md-4">
+  
+    <div class="col-md-12">
+        <div class="x_panel">
+          <div class="x_title">
+            <h2>Próximos Eventos</h2>
+            <div class="clearfix"></div>
+          </div>
+          <div class="x_content">
+    
+              <% objeto.eventos.forEach(function(item) { %>
+    
+             
+    
+    
+            <% }); %>
+    
+          
+          </div>
+        </div>
+    </div>
+       
+    <div class="col-md-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2>Novas Ideias - Site</h2>
+        <ul class="nav navbar-right panel_toolbox">
+          
+          </li>
+          <li class="dropdown">
+            
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="#">Settings 1</a>
+              </li>
+              <li><a href="#">Settings 2</a>
+              </li>
+            </ul>
+          </li>
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+
+          <% objeto.ideias.forEach(function(item) { %>
+             <article class="media event">  
+              <div class="media-body">
+                <a class="title"  target="_blank" href="/contato/show?id=<%= item.id %>"> Nome: <%=  item.nome %> </a>
+              </div>
+            </article>    
+          <% }); %>    
+      </div>
+    </div>
+    </div>
+         
+    <div class="col-md-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2>Fale Conosco - Site</h2>
+        <ul class="nav navbar-right panel_toolbox">
+        
+          <li class="dropdown">
+            
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="#">Settings 1</a>
+              </li>
+              <li><a href="#">Settings 2</a>
+              </li>
+            </ul>
+          </li>
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+
+          <article class="media event">
+          <a class="pull-left date">
+            <p class="month">April</p>
+            <p class="day">23</p>
+          </a>
+
+          <div class="media-body">
+            <a class="title" href="#">Item One Title</a>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          </div>
+
+          </article>     
+      </div>
+    </div>
+    </div>
+
+  </div>
+    
+
+
+<div class="clearfix"></div>
+
+
+<% include ../template/footer %>
+

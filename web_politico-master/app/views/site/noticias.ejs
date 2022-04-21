@@ -1,0 +1,25 @@
+<% include ./head %>
+
+<section id="about" class=""> 
+  <div class="container rows-section ">
+      
+      
+  
+            <div class="list-group ">
+           <% for(let i = 0; i < list.length; i++) { %>
+                <a href="/noticia/show/<%=  list[i].id %>" class="list-group-item list-group-item-action flex-column align-items-start bg-back-div text-white">
+                  <div class="d-flex w-100 justify-content-between text-white">
+                   
+                    <small class="text-white"> <%=  moment(list[i].createdAt, 'DD/MM/YYYY HH:mm:ss').format('DD/MM/YYYY') %> </small>
+                  </div>
+                  <p class="mb-1"><%=  list[i].titulo %></p>
+                </a>
+            <% } %>
+              </div>
+          
+       
+ 
+</div>
+</section>
+
+<% include ./footer %>

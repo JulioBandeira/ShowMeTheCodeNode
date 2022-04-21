@@ -1,0 +1,63 @@
+<% include ../template/header %>
+
+
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+      <div class="x_title">
+        <h2> Editar Contato</small></h2>
+        <ul class="nav navbar-right panel_toolbox">
+          
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <div class="x_content">
+        <br>
+
+          <% if(messages.erro)
+              {messages.erro.forEach(function(error){%>
+                  <div class="alert alert-danger"><%= error %></div>
+          <% })} %>      
+
+          <form method="POST" action="/contato/edit">
+            <div class="col-md-8 col-md-offset-2">
+            
+            <input type="hidden" name="id" value="<%= body.id-%>">
+            <% include ./form %>
+
+            <div class="row"> 
+              <div class="col-md-12"> 
+                <button type="submit" class="btn btn-success">Salvar</button>
+              </div>
+
+            </div>
+          </div>
+      </form>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+   
+<% include ../template/footer %>
+
+
+<script>
+ 
+  var tipo_pessoas = ('<%-body.tipo_de_contato%>').split(',');
+
+  $('#tipo_contato').val(tipo_pessoas).trigger("chosen:updated");
+  $('#tipo_contato').trigger("chosen:updated");
+  
+  $('#indicacao').val('<%-body.quem_indicou != undefined ? body.quem_indicou.id : "" %>').trigger("liszt:updated");
+  $('#indicacao').trigger("liszt:updated");
+   
+  $('#tipo_pessoa').val('<%-body.tipo_pessoa%>');
+
+ </script>
+
+
+
+
+

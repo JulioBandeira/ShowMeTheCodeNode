@@ -1,0 +1,120 @@
+<div class="row">
+                    
+        <input type="hidden" id="id" name="id"> 
+        
+        <div class="col-md-12">
+            <div class="form-group">
+              <label>Título</label> 
+              <input type="text" name="title" id="title" class="form-control" value="">
+            </div>
+        </div>  
+        
+        
+        <div class="col-md-6">
+            <div class="form-group">
+            <label>Responsável (Local da Reunião)</label>
+              <select  class="form-control chosen-ajax-deselect" id="responsavel_id" name="responsavel_id"  data-url = "/contato/get_contatoss">
+                
+                <option value="" >  </option>
+  
+              </select>
+            </div>
+          </div>  
+
+      <div class="col-md-6">
+        <div class="form-group">
+        <label>Solicitante (Liderança)</label>
+          <select  class="form-control chosen-ajax-deselect" id="solicitante_id" name="solicitante_id"  data-url = "/contato/get_contatoss">
+            
+            <option value="" >  </option>
+
+          </select>
+        </div>
+      </div>
+  
+      
+      <div class="col-md-12">
+        <div class="form-group">
+        <label>
+          Endereço da Reunião/Evento: 
+        </label>  
+            <div class="card-block" id="formatted-address2">
+        </div>
+
+        </div>
+      </div>  
+
+      <div class="col-md-6">
+          <div class="form-group">
+            <label>Descrição do Evento/Observação</label> 
+            <textarea class="form-control" name="description" id="description" rows="5"></textarea>
+          </div>
+      </div> 
+
+      <!-- <div class="col-md-6 col-sm-12 col-xs-12">
+        <div class="form-group">
+         <label>Convidados</label>
+           <select  class="form-control chosen-ajax-deselect" id="evento_contatos" name="evento_contatos" multiple data-url = "/contato/get_contatoss">
+        
+          </select>
+        </div>
+     </div> -->
+
+        
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Data Início</label> 
+                <div class='input-group date myDatepicker'>
+                    <input type='text' name="start" id="start" class="form-control" data-inputmask="'mask' : '99/99/9999 99:99'"/>
+                    <span class="input-group-addon">
+                       <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        </div>    
+        
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Data Fim</label> 
+                <div class='input-group date myDatepicker'>
+                    <input type='text' name="end" id="end" class="form-control" data-inputmask="'mask' : '99/99/9999 99:99'"/>
+                    <span class="input-group-addon">
+                       <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+            </div>
+        </div>    
+        
+        <div class="col-md-12 ">
+          <div class="form-group">
+              <label>Status do Evento/Agenda</label> 
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="col-md-3">
+               
+                  <div class="radio">
+                      <label> 
+                        <input type="radio" class="flat" checked id="radio_reuniao" value="a_confirmar" name="status"> <span style="font-size: 14px;background-color: #5c5c8a; color: white"> A Confirmar </span>
+                      </label>
+                 </div>  
+              </div>
+               
+              <div class="col-md-3">
+                <div class="radio">
+                  <label>
+                    <input type="radio" class="flat" value="confirmado" name="status"> <span style="font-size: 14px;background-color: #00b300; color: white">  Confirmado </span>
+                  </label>
+                </div>
+              </div>
+
+              
+              <div class="col-md-3"> 
+              <div class="radio">
+                <label>
+                  <input type="radio" class="flat" value="cancelado" name="status"> <span style="font-size: 14px;background-color: #cc3300; color: white"> Cancelado</span>
+                </label>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+</div>

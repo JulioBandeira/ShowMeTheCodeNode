@@ -1,0 +1,223 @@
+<% include ./head %>
+
+<style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  </style>
+
+    <section id="about" class="">
+      <div class="container">
+  
+
+      <div id="demo" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+        <% for(let i = 0; i < list.length; i++) { %>
+           <%if (i == 0) {%>   
+               <li data-target="#demo" data-slide-to="<%= i %>" class="active"></li>
+          <% } else{ %>  
+             <li data-target="#demo" data-slide-to="<%= i %>"></li>
+            <% } %>
+        <% } %>
+         
+        </ul>
+        <div class="carousel-inner">
+           
+            <% for(let i = 0; i < list.length; i++) { %>
+              <%if (i == 0) {%>
+                <div class="carousel-item active">
+                <a href="/noticia/show/<%=  list[i].id %>">  <img src="/imagens/<%= list[i].path %>" alt="" width="1100" height="500"></a>
+                  <div class="carousel-caption">
+                   
+                   
+                  </div>   
+                </div>
+                <% } else{ %>  
+
+                  <div class="carousel-item">
+                      <a href="/noticia/show/<%=  list[i].id %>">  <img src="/imagens/<%= list[i].path %>" alt="" width="1100" height="500"> </a>
+                    <div class="carousel-caption">
+                     
+                    </div>   
+                  </div>
+                  <% } %>
+                <% } %>
+          
+        </div>
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </a>
+      </div>
+    </div>
+</section>
+   
+    <section id="ideias" class="text-center"> 
+      <div class="container" >
+        <h5 class="bg-back-div text-white" style="padding: 10px;">CONHEÇA MINHAS IDEIAS COMO PRÉ CANDIDATO A DEPUTADO ESTADUAL</h5>
+     </div>
+     
+    </section>
+
+    <section class="">
+        <div class="container">
+
+            <div class="row"> 
+                <div class="col-md-2 col-sm-3 color1">
+                    <a class="show-sub-item" href="3" > <i class="icon-emprego icon-person "></i> </a>
+                </div>
+
+                <div class="col-md-2 col-sm-3 color2">
+                    <a class=" show-sub-item" href="4" > <i class="icon-regularizacao icon-person"></i></a>
+               </div>
+
+               <div class="col-md-2 col-sm-3 color3">
+                  <a class="show-sub-item" href="5" > <i class="icon-esporte icon-person"></i></a>
+               </div>
+
+               <div class="col-md-2 col-sm-3 color4">
+                  <a class=" show-sub-item" href="6" ><i class="icon-capacitacao icon-person"></i></a>
+               </div>
+
+               <div class="col-md-2 col-sm-3 color5">
+                  <a class="show-sub-item" href="7" > <i class="icon-agronecio icon-person"></i></a>
+               </div>
+
+               <div class="col-md-2 col-sm-3 color6">
+                  <a class="show-sub-item" href="15" ><i class="icon-ongs icon-person"></i></a>
+               </div>
+             </div>
+        </div>
+    </section>   
+
+  <section class="bg-warning line" style="margin-top: -11px;">
+      <div class="container">
+          <div class="text-white text-center">
+
+              <div class="row bg-warning"> 
+                 <div class="col-md-2 color1">
+                    <span>  <a class="text-white show-sub-item" href="3" > EMPREGOS e TERCEIRIZAÇÃO </a> </span> 
+            </div>
+
+            <div class="col-md-2 color2">
+              <span> <a class="text-white show-sub-item" href="4" >REGULIZAÇÃO FUNDIÁRIA</a> </span>  
+                </div>
+
+                <div class="col-md-2 color3" >
+                  <span>  <a class="text-white show-sub-item" href="5" >ESPORTE CULTURA e TURISMO</a></span>  
+                </div>
+
+                <div class="col-md-2 color4">
+                  <span> <a class="text-white show-sub-item" href="6" >CAPACITAÇÃO e 1° EMPREGO</a> </span>  
+                </div>
+
+                <div class="col-md-2 color5">
+                  <span><a class="text-white show-sub-item" href="7" >TECNOLOGIA e AGRONEGÓCIO </a> </span>  
+                </div>
+
+                <div class="col-md-2 color6" >
+                  <span><a class="text-white show-sub-item" href="15" > ONGs e ASSOCIAÇÕES</a> </span>  
+                </div>
+              </div>
+          </div>
+      </div>
+  </section>
+
+  <section id="" class="text-justify">
+      <div class="container">
+        <p class="bg-back-div text-white text-p"></p>
+     </div>  
+    </section>   
+
+    <section class="bg-warning line" style="margin-top: -11px;"> 
+        <div class="container">
+            <div class="row text-center text-white">
+                <div class="col-12 col-md-12 align-center" style="padding: 10px;">
+                  <h5 > E VOCÊ, O QUE FARIA SE FOSSE DEPUTADO ESTADUAL</h5>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class=""> 
+          <div class="container rows-section">
+              <div class="bg-back-div text-white">
+                  <div class="col-md-12">
+                   
+                 
+                    <form method="POST" action="/contato/new">
+                     
+                      <div class="row">
+                          <div class="col-md-12 mb-3">
+                             <h5 class="" >NOS CONTE SUA IDEIA</h5>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-6 mb-3">
+                          <label for="firstName">Nome</label>
+                          <input type="text" class="form-control" required name="nome" id="firstName" placeholder="" value="" required="">
+                          <div class="invalid-feedback">
+                           campo obrigatório
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 mb-3">
+                          <label for="">Email </label>
+                          <input type="email" class="form-control" required id="email" name="email1" placeholder="seu@example.com">
+                          <div class="invalid-feedback">
+                            Please enter a valid email address for shipping updates.
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 mb-3">
+                          <label for="">Celular </label>
+                          <input type="text" id="celular" data-mask="(00) 00000-0000" name="celular1" class="form-control">
+                          <div class="invalid-feedback">
+                            Please enter a valid email address for shipping updates.
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 mb-3">
+                          <label for="email">Telefone </label>
+                          <input type="text" id="telefone" data-mask="(00) 0000-0000" name="telefone1" class="form-control">
+                          <div class="invalid-feedback">
+                            Please enter a valid email address for shipping updates.
+                          </div>
+                        </div>
+                       
+                      </div>
+          
+                      <div class="mb-3">
+                        <label for="address2"> Escreva a sua ideia </label>
+                        <textarea rows="5" name="ideia" class="form-control"></textarea>
+                      </div>
+          
+                      <div class="mb-3">
+                        <label for="address">Endereço</label>
+                        <input type="text" class="form-control" id="address"  required="">
+                        <div class="invalid-feedback">
+                          Please enter your shipping address.
+                        </div>
+                      </div>
+          
+                      <div class="row"> 
+                        <div class="col-md-12 mb-3">
+                          <button type="submit" class="btn btn-light"> Enviar</button>
+                      </div>
+                    </div>
+                      
+                      <!-- <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout</button> -->
+                    </form>
+                  </div>
+                </div>
+         
+        </div>
+    </section>
+
+<% include ./footer %>    
+
+    
